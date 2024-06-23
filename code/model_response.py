@@ -1,10 +1,3 @@
-# -*- coding: UTF-8 -*-
-"""
-@Project ：rag 
-@File    ：model_response.py
-@Author  ：zfk
-@Date    ：2024/5/8 11:45
-"""
 import json
 import re
 from typing import Any

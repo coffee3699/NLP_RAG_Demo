@@ -1,11 +1,3 @@
-# -*- coding: UTF-8 -*-
-"""
-@Project ：rag 
-@File    ：Basic_RAG_pipeline.py
-@Author  ：zfk
-@Date    ：2024/5/7 22:21
-"""
-
 import os
 
 from dotenv import load_dotenv
@@ -22,8 +14,10 @@ def main(args):
     # 1. 从目录加载文档，一个txt为一个文档
     documents = SimpleDirectoryReader(input_files=[args.data_path]).load_data()
     # 2.定义解析器
+    # node_parser = SemanticSplitterNodeParser(buffer_size=buffer_size, embed_model=Settings.embed_model)
     node_parser = SimpleNodeParser.from_defaults(chunk_size=args.chunk_size, chunk_overlap=args.chunk_overlap)
     # 3.将文档解析为TextNode
+    # nodes = node_parser.build_semantic_nodes_from_documents(documents)
     nodes = node_parser.get_nodes_from_documents(documents)
     # 4.将TextNode转换为索引向量
     index = VectorStoreIndex(nodes)
@@ -33,8 +27,12 @@ def main(args):
     response = query_engine.query(
         "When did Musk establish xAI"
     )
+
+    print("Response:")
     print(str(response))
+    print("Response source nodes 1:")
     print(response.source_nodes[0].text)
+    print("Response source nodes 2:")
     print(response.source_nodes[1].text)
 
 
@@ -55,7 +53,7 @@ if __name__ == '__main__':
     parser.add_argument('--embedding_model_path', type=str, help='local embedding model path',
                         default=os.getenv('EMBEDDING_MODEL_PATH'))
 
-    parser.add_argument('--data_path', type=str, help='local data path', default='../data/Elon.txt')
+    parser.add_argument('--data_path', type=str, help='local data path', default='../../data/Elon.txt')
     parser.add_argument('--chunk_size', type=int, default=64, help='chunk size')
     parser.add_argument('--chunk_overlap', type=int, default=2, help='chunk overlap')
     args = parser.parse_args()
