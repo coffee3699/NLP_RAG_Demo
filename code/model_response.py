@@ -12,7 +12,7 @@ from llama_index.core.llms import (
 from llama_index.core.llms.callbacks import llm_completion_callback
 from loguru import logger
 from peft import AutoPeftModelForCausalLM
-from transformers import AutoTokenizer
+from transformers import AutoTokenizer, AutoModelForCausalLM
 
 logger.add("model_response.log", rotation="500 MB", retention="10 days")
 
@@ -80,6 +80,22 @@ class LocalPeftModel:
         return response
 
 
+class LocalModel:
+    def __init__(self, model_path):
+        self.model = AutoModelForCausalLM.from_pretrained(model_path, trust_remote_code=True)
+        self.tokenizer = AutoTokenizer.from_pretrained(model_path, trust_remote_code=True)
+        self.model = self.model.to("cuda").eval()
+
+    def chat(self, prompt):
+        logger.info(f"Local chat: {prompt}")
+        inputs = self.tokenizer.encode(prompt, return_tensors='pt').cuda()
+        outputs = self.model.generate(inputs, max_new_tokens=256)
+        response = self.tokenizer.decode(outputs[0][inputs.size(1):], skip_special_tokens=True)
+        response = remove_special_tokens(response)
+        logger.info(f"Local response: {response}")
+        return response
+
+
 class MyLocalLLM(CustomLLM):
     context_window = 2048
     num_output = 256
@@ -88,7 +104,8 @@ class MyLocalLLM(CustomLLM):
 
     def __init__(self, pretrained_model_name_or_path):
         super().__init__()
-        self.model = LocalPeftModel(pretrained_model_name_or_path)
+        self.model = LocalModel(pretrained_model_name_or_path)
+        # self.model = LocalPeftModel(pretrained_model_name_or_path)
 
     @property
     def metadata(self) -> LLMMetadata:

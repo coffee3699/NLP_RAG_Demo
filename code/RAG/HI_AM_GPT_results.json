@@ -1,0 +1,1202 @@
+[
+    {
+        "query": "who has been in more movies, will farrell or steve carell?",
+        "predicted_answer": "Steve Carell has been in more movies.",
+        "ground_truth": "will farrell has acted in 142 films, while steve carell has only been 85 films.",
+        "retrieved_chunk": [
+            "He received wide critical acclaim the very next year for playing a gay Proust scholar in the Oscarwinning Little Miss Sunshine. Carell became an Oscar nominee himself for playing eccentric billionaire John du Pont in Bennett Miller s true life sports drama Foxcatcher 2014.",
+            "Carell received his first Oscar nomination as Best Actor for Bennett Miller s truthisstrangerthanfiction sports drama. He plays John du Pont , an eccentric billionaire who convinces U.S.",
+            "Carell stars as Cal, a middleaged man whose life is changed when his wife  Julianne Moore  asks for a divorce. He seeks help from a newfound friend  Ryan Gosling  whos skilled at picking up women, including Cals oldest daughter Stone.",
+            "Starring Timothee Chalamet, Maura Tierney, Amy Ryan, Kaitlyn Dever, Andre Royo, Timothy Hutton. Carell gives one of his best performances in this somber domestic drama.",
+            "Will Ferrell, Paul Rudd, and Steve Carell appeared in leading roles whereas Vince Vaughn appeared in a supporting role, Luke Wilson also appeared in a minor role whereas Jack Black and Ben Stiller had cameos."
+        ]
+    },
+    {
+        "query": "what is the sales tax in maine?",
+        "predicted_answer": "5.5%",
+        "ground_truth": "5.5%",
+        "retrieved_chunk": [
+            "Somerset Waldo Washington York Download rate tables Maine sales tax details The Maine ME state sales tax rate is currently 5.5.",
+            "Maine also has a corporate income tax that ranges from 3.50 percent to 8.93 percent . Maine has a 5.50 percent state sales tax rate and does not levy any local sales taxes.",
+            "Home  Data  State Tax  Maine  Page 4 Taxes In Maine Maine Tax Rates, Collections, and Burdens How does Maines tax code compare Maine has a graduated individual income tax, with rates ranging from 5.80 percent to 7.15 percent.",
+            "Maine does not provide a blanket sales and use tax exemption for nonprofit organizations. Exemptions are classified by organization type with the state of Maine requiring groups to submit a completed application to be considered for sales tax exemption.",
+            "101 Sales tax registration products Rates Sales tax calculator Sales tax rates for the U.S. Tax calculations 101 Calculations products Returns Sales and use tax returns 101 Common challenges of managing returns Returns and reporting products Related Small business FAQ Compliance documents products Business licenses products Tax research products International compliance solutions Sales tax integrations Maine sales tax rates Rates updated monthly Maine sales tax range for 2024 5."
+        ]
+    },
+    {
+        "query": "what's the date of justin bieber's latest release?",
+        "predicted_answer": "Justin Bieber's latest release is the Changes album, which was released on February 14, 2020.",
+        "ground_truth": "2022-08-30",
+        "retrieved_chunk": [
+            "193 Appearing on The Ellen DeGeneres Show on January 28, 2020, Bieber confirmed the release date of his fifth studio album, Changes , to be February 14, 2020.",
+            "Kiefer, Halle January 28, 2020. Justin Bieber Announces New Album Will Drop Valentines Day . Vulture.com .",
+            "Retrieved March 13, 2020 .  Justin Bieber Announces Changes Album, Shares Get Me With Kehlani Stream It Now  Billboard . Billboard . January 28, 2020. Archived from the original on January 28, 2020.",
+            "Retrieved November 26, 2021 .  Vena, Jocelyn March 1, 2012. Justin Bieber Announces New Single, Boyfriend  . MTV. Archived from the original on April 5, 2019 .",
+            "Retrieved September 14, 2010 .  Ziegbe, Mawuse October 24, 2010. Justin Bieber Announces Acoustic Album Release Date . MTV. Archived from the original on September 19, 2018 ."
+        ]
+    },
+    {
+        "query": "what is the most recent date that nml paid dividends to its shareholders?",
+        "predicted_answer": "2017-09-08 (the date that Company XYZ declared the dividend)",
+        "ground_truth": "2024-02-14",
+        "retrieved_chunk": [
+            "982017 Friday, 9152017 Monday, 9182017 Tuesday, 1032017 On September 8, 2017, Company XYZ declares a dividend payable on October 3, 2017 to its shareholders.",
+            "Company XYZ declares a dividend payable on October 3, 2017 to its shareholders. XYZ also announces that shareholders of record on the companys books on or before September 18, 2017 are entitled to the dividend.",
+            "4, XYZ Company declares a dividend for its shareholders. The companys board then announces a record date of Friday, Feb. 18. Shareholders of record on that date will be eligible to receive the dividend.",
+            "In the above example, the exdividend date for a stock thats paying a dividend equal to 25 or more of its value, is October 4, 2017. Sometimes a company pays a dividend in the form of stock rather than cash.",
+            "Q Does CELSCI CVM pay a dividend A There are no upcoming dividends for CELSCI . Q When is CELSCI AMEXCVM reporting earnings A CELSCI s Q2 earnings are confirmed for Friday, May 10, 2024 ."
+        ]
+    },
+    {
+        "query": "what was the worldwide box office earnings for the iceman?",
+        "predicted_answer": "190.98 million.",
+        "ground_truth": "1969193",
+        "retrieved_chunk": [
+            "59 60 The film was released in 64 territories worldwide, including almost all major markets minus Japan, starting from April 12, 2017, and was projected to earn anywhere between 375440 million in its fiveday opening weekend.",
+            "07 million and James Mangold s Knight and Day 76.42 million. Granted, thats not a great domestic cume, but in no way could the 60 millionbudgeted Jack Reacher be considered a box office flop  well, at least once one considers the films international performance 112.1 million, for a grand worldwide total of 190.98 million.",
+            "More. Summary News Box Office International Video Sales Cast  Crew Trailer Metrics Domestic Share 100.0 domestic box officeworldwide Production Budget 5,500,000 worldwide box office is 29.",
+            "a b Tartaglione, Nancy June 2, 2014. UPDATE Intl Box Office Maleficent Awakens 106.1M Overseas XMen Adds 95.6M Edge Of Tomorrow Cruises To 20.1M In Select Markets A Million Ways To Die In The West Holsters 10M More .",
+            "2024 Worldwide Box Office  Box Office Mojo Domestic International Worldwide Calendar All Time Showdowns Indices 2024 Worldwide Box Office 2024 2023 2022 2021 2020 2019 2018 2017 2016 2015 2014 2013 2012"
+        ]
+    },
+    {
+        "query": "can you provide me with the total number of regional confederations that make up fifa's organization?",
+        "predicted_answer": "6 regional confederations make up FIFA's organization.",
+        "ground_truth": "6",
+        "retrieved_chunk": [
+            "1 Africa 4.2 Asia 4.3 North America 5 Defunct 6 External links International   FIFA  Fédération Internationale de Football Association  208 members  founded in 1904, represents nations from around the world, and is the overall governing body of recognised international football.",
+            "Headquartered in Zürich , Switzerland, its membership now comprises 211 national associations . These national associations must also be members of one of the six regional confederations into which the world is divided CAF Africa, AFC Asia and Australia, UEFA Europe, CONCACAF North  Central America and the Caribbean, OFC Oceania, and CONMEBOL South America.",
+            "October 2015 26 February 2016 Acting 9 Gianni Infantino Italy Switzerland 26 February 2016 Incumbent Structure  edit  Main article Geography of association football Six confederations and 211 national associations  edit  FIFA confederations AFC , CAF , CONCACAF CONMEBOL , OFC , UEFA v t e Besides its worldwide institutions, there are six confederations recognized by FIFA which oversee the game in the different continents and regions of the world. National associations, and not the continental confederations, are members of FIFA. The continental confederations are provided for in FIFAs statutes, and membership of a union is a prerequisite to FIFA membership.",
+            "33 FIFA Council  formerly called the FIFA Executive Committee and chaired by the president  is the organizations main decisionmaking body in the intervals of Congress. The council comprises 37 people the president 8 vicepresidents and 28 members from the confederations, with at least one of them being a woman.",
+            "Africa Confédération Africaine de Football CAF Read More Asia Asian Football Confederation AFC Read More Europe Union des associations européennes de football UEFA Read More NORTH, CENTRAL AMERICA AND CARIBBEAN The Confederation of North, Central America and Caribbean Association Concacaf Read More South america Confederación"
+        ]
+    },
+    {
+        "query": "what was the total value of all global hedge fund assets under management in 2023?",
+        "predicted_answer": "5 trillion U.S. dollars",
+        "ground_truth": "the total value of all global hedge fund assets under management was $4.6 trillion in 2023.",
+        "retrieved_chunk": [
+            "Value of Assets Managed by Hedge Funds Worldwide from 1997 to 2023 in Billion U.S. Dollars.",
+            "Stock exchanges Statista Accounts Access All Statistics. Starting from 2,388 USD  Year Learn more about how Statista can support your business. Request webinar BarclayHedge. January 16, 2024. Value of assets managed by hedge funds worldwide from 1997 to 2023 in billion U.S. dollars Graph. In Statista . Retrieved March 13, 2024, from httpswww.statista.comstatistics271771assetsofthehedgefundsworldwide BarclayHedge. Value of assets managed by hedge funds worldwide from 1997 to 2023 in billion U.S. dollars. Chart. January 16, 2024. Statista. Accessed March 13, 2024. httpswww.statista.comstatistics271771assetsofthehedgefundsworldwide BarclayHedge. 2024. Value of assets managed by hedge funds worldwide from 1997 to 2023 in billion U.S. dollars . Statista .",
+            "The value fell markedly the following year because of the financial crisis and did not recover until 2013. In 2023, the value of assets under management AUM of hedge funds reached over five trillion U.S. dollars.",
+            "by assets Distribution of global hedge funds assets in 2018, by type of investor Value of sustainable investment assets worldwide 20142020, by region Global assets under management 20052022 Global assets under management 2019,",
+            "Assets under management of hedge funds worldwide 19972023 Aum of the largest hedge fund firms globally 2023 YoY comparison of hedge fund investment strategies for crypto worldwide 20222023 MSCI hedge fund position and net exposure worldwide 2023,"
+        ]
+    },
+    {
+        "query": "who has had more platinum albums, ac/dc or metallica?",
+        "predicted_answer": "ACDC has had more platinum albums than Metallica.",
+        "ground_truth": "ac/dc has had more platinum albums than metallica, with 20 platinum albums compared to metallica's 13.",
+        "retrieved_chunk": [
+            "Five years after its release, ACDC released the album in the US in 1981. Featuring Ride On , Jailbreak , Rocker , Problem Child , Theres Gonna Be Some Rockin , and many more, the album has received 13x Platinum certifications in total.",
+            "Documentation Affiliation Network Contact Join Join Who has sold more albums ACDC or Metallica Leave a Comment  Music  By Amal H.",
+            ", and achieved international success with it. In 1976, the band had released their debut album all over the world, which featured a different tracklist. Adding numerous achievements to its catalog to date, ACDC has released its latest studio album, Power Up , in 2020.",
+            "Who has sold more albums ACDC or Metallica Skip to content Main Menu Home Go Famuse Apply Miss MENA World Menu Toggle The Pageant Become Miss MENA Auditions Academy Menu Toggle Awards Menu Toggle Digital Awards Nomination Menu Toggle Brands  Agencies Youtube Instagram TikTok Music Marketing Facebook Instagram Industry Insights Menu Toggle Brands updates",
+            "11 Metallica  63 million Metallica commonly known as The Black Album  is Metallicas fifth studio album and has sold over 16 million copies in the U.S., tripling sales of their next highestselling album."
+        ]
+    },
+    {
+        "query": "how many times has dwayne \"the rock\" johnson appeared in a film as a demigod?",
+        "predicted_answer": "1",
+        "ground_truth": "dwayne \"the rock\" johnson has appeared in four films as a demigod, playing maui in \"moana\" and \"once upon a studio\", the scorpion king in \"the mummy returns\" and \"the scorpion king\", and hercules in \"hercules.\"",
+        "retrieved_chunk": [
+            "1996 4 Signature Dwayne Douglas Johnson born May 2, 1972, also known by his ring name The Rock , is an American actor, businessman, and professional wrestler .",
+            "Pomerantz, Dorothy December 16, 2013. Dwayne Johnson Is The TopGrossing Actor Of 2013 . Forbes .  Hercules, Starring Dwayne Johnson, to Arrive August 8, 2014 . Coming Soon.",
+            "Dwayne Johnson  IMDb Menu Movies Release Calendar Top 250 Movies Most Popular Movies Browse Movies by Genre Top Box Office Showtimes  Tickets Movie News India Movie Spotlight TV Shows Whats on TV  Streaming Top 250 TV Shows Most Popular TV Shows Browse TV Shows by Genre TV News Watch What to Watch Latest Trailers IMDb",
+            "2023 511 pm Posted Feb 10, 2023 700 pm Dwayne The Rock Johnson has been keeping as busy as ever lately, starring in epic blockbusters like The Fate of the Furious, comedies like Baywatch and Jumanji Welcome to the Jungle, the video game adaptation Rampage,",
+            "7 Play clip 3  37 Burning Questions With Black Adam 99 Videos 99 Photos Dwayne Douglas Johnson, also known as The Rock, was born on May 2, 1972 in Hayward, California."
+        ]
+    },
+    {
+        "query": "can you tell me where the artist who won the best new artist in 54th grammy (2011) was born?",
+        "predicted_answer": "The artist who won the Best New Artist in the 54th Grammy Awards (2011) was not specified.",
+        "ground_truth": "us",
+        "retrieved_chunk": [
+            "Grammy Award for Best New Artist  Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Donate Contribute Help Learn to edit Community portal Recent changes Upload file Search Search Create account Log in Personal tools Create account Log in Pages for logged out editors learn more",
+            "For other uses, see Best New Artist disambiguation . Grammy Award for Best New Artist Victoria Monét is the most recent recipient Country United States Presented by National Academy of Recording Arts and Sciences First awarded 1960 Currently held by Victoria Monét  2024  Website grammy .",
+            "Martens, Todd December 1, 2010. Grammys 2011 Justin Bieber, Florence  the Machine and the best new artist crop . Los Angeles Times . Retrieved December 2, 2010 .",
+            "139 On 30 November 2011, Coldplay received three Grammy Award nominations for the 54th Annual Grammy Awards which took place on 12 February 2012 in Los Angeles, and the band performed with Rihanna at the ceremony.",
+            "wikipedia.orgwindex.phptitleGrammy_Award_for_Best_New_Artistoldid1205945357  Categories  Grammy Award categories Music awards for breakthrough artist Hidden categories All articles with dead external links Articles with dead external links from April 2012 Articles with short description Short description is different"
+        ]
+    },
+    {
+        "query": "which singer wrote dark nevada dream?",
+        "predicted_answer": "Wayne Kirkpatrick and Tommy Sims",
+        "ground_truth": "tim bowness",
+        "retrieved_chunk": [
+            "Wayne Kirkpatrick  Tommy Sims songwriters 1996  Sunny Came Home   Shawn Colvin  John Leventhal songwriters 1997  My Heart Will Go On   James Horner  Will Jennings songwriters 1998  Smooth   Itaal Shur  Rob Thomas songwriters",
+            "songwriter 1988  Wind Beneath My Wings   Larry Henley  Jeff Silbar songwriters 1989 1990s  From a Distance   Julie Gold songwriter 1990  Unforgettable   Irving Gordon songwriter 1991  Tears in Heaven   Eric Clapton  Will Jennings",
+            "Jeff Bhasker , Andrew Dost  Nate Ruess songwriters 2012  Royals   Joel Little  Ella Yelich OConnor songwriters 2013  Stay with Me   Darkchild version  James Napier ,",
+            "Send In the Clowns   Stephen Sondheim songwriter 1975  I Write the Songs   Bruce Johnston songwriter 1976  Evergreen Love Theme from A Star Is Born   Barbra Streisand  Paul Williams songwriters   You Light Up My Life   Joe Brooks songwriter 1977",
+            "Dark Dream  Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Donate Contribute Help Learn to edit Community portal Recent changes Upload file Search Search Create account Log in Personal tools Create account Log in Pages for logged out editors learn more Contributions Talk Contents move to"
+        ]
+    },
+    {
+        "query": "do you know who directed chloe and theo?",
+        "predicted_answer": "Theo 2015 Chloe  Theo 2015 Chloe  Theo 2015 See all photos",
+        "ground_truth": "ezna sands",
+        "retrieved_chunk": [
+            "Theo 2015 Chloe  Theo 2015 Chloe  Theo 2015 See all photos Movie Info A homeless woman and a lawyer help an Inuit man from the Arctic bring his message of change to the United Nations.",
+            "Credit... ARC Entertainment Chloe  Theo Directed by Ezna Sands Comedy, Drama PG13 1h 21m By Daniel M. Gold Sept.",
+            "EN Fully supported English United States Partially supported Français Canada Français France Deutsch Deutschland हद भरत Italiano Italia Português Brasil Español España Español México Use app Cast  crew User reviews Trivia FAQ IMDbPro All topics Chloe and Theo Original title Chloe  Theo 2015 PG13",
+            "Trivia FAQ IMDbPro All topics Chloe and Theo Original title Chloe  Theo 2015 PG13 1h 21m IMDb RATING 5.",
+            "3, 2015 CHLOE  THEO Opens on Friday Directed by Ezna Sands 1 hour 21 minutes Give  Chloe  Theo  points for a timely release."
+        ]
+    },
+    {
+        "query": "who has had more number one hits on the us billboard hot 100 chart, beyoncé or rihanna?",
+        "predicted_answer": "Rihanna has had more number one hits on the US Billboard Hot 100 chart.",
+        "ground_truth": "rihanna has had more number one hits on the us billboard hot 100 chart than beyoncé, with 14 number one hits compared to beyoncé's 9.",
+        "retrieved_chunk": [
+            "The rapper notched his first No. 1 hit thanks to Rihanna, when their collaboration Whats My Name reigned atop the chart in 2010. In 2016, Drake topped the chart again as a featured artist on Rihannas song Work.",
+            "Twenty years later, Rihanna is a renowned entertainerturnedmogul. She has sold over 40 million albums worldwide, garnered over 12 billion Spotify streams, achieved 14 Billboard Hot 100 charttoppers, and won nine GRAMMY Awards.",
+            "Weeks later, ANTI became her second LP to top the Billboard 200 chart. Subsequently, Rihanna held the No. 1 spots on the Billboard 200 and Hot 100 simultaneously, her second time achieving such an impressive feat.",
+            "The oneoff single is so quintessentially Rihanna that it notably kicked off her Super Bowl halftime show. An InDemand Collaborator While bestowing hit after hit on her own, Rihanna generously lent her distinct voice to some of her biggest peers.",
+            "An Artist Fully Realized With 13 No. 1s and twice as many top 10 hits under her belt, Rihanna set out to create timeless music instead of chasing a radiofriendly formula with her 2016 magnum opus, ANTI ."
+        ]
+    },
+    {
+        "query": "can you tell me if this is the original title, the fast and the fierce?",
+        "predicted_answer": "The film you are referring to is called Fast and Fierce, but it is not the original title of the film. The original title of the film is Fast and Furious.",
+        "ground_truth": "true",
+        "retrieved_chunk": [
+            "Raptorclaw155 31 May 2020 This film pretty much gets everything wrong. As a film that is trying to make its share from the popularity of the Fast and Furious franchise, Fast and Fierce shows a complete lack of understanding of what makes Fast and Furious so popular and successful.",
+            "I draw comparisons to Fast and the Furious, not only because of its alternative title Fast and Fierce, but also because they even use the line I live life a quarter mile at a time so its begging for the comparison.",
+            "Episodes Celebs Companies Keywords Advanced Search Watchlist Sign In EN Fully supported English United States Partially supported Français Canada Français France Deutsch Deutschland हद भरत Italiano Italia Português Brasil Español España Español México Use app Fast and Fierce Death Race 2020 User Reviews Review this title",
+            "Permalink An error has occured. Please try again. Load More See also Awards  FAQ  User Ratings  External Reviews  Metacritic Reviews Fast and Fierce Death Race Opinion Awards FAQ User Reviews User Ratings External Reviews Metacritic Reviews Details Full Cast and Crew Release Dates Official Sites Company Credits Filming",
+            "BAH If you looking for fast cars and such, go watch Fast and the Furious Tokyo Drift or wait for Too Fast and Too Fierce which hopefully will be better SEE YA AT THE STARTING LINE 1 out of 2 found this helpful. Was this review helpful Sign in to vote."
+        ]
+    },
+    {
+        "query": "who did pelicans go head-to-head with on 2022-10-14?",
+        "predicted_answer": "2022-10-14 was a regular season game for the New Orleans Pelicans, so they did not have any head-to-head matchups on that date.",
+        "ground_truth": "atlanta hawks",
+        "retrieved_chunk": [
+            "New Orleans Pelicans Roster  NBA.",
+            "Tickets Schedule Team Roster Standings Stats Team Leaders Executives Staff Broadcast Information 202324 Media Guide 202324 Yearbook Contact Us Corporate Partners Career Opportunities Birmingham Squadron News News  Media Videos Photos Live Podcasts Game Notes Mobile App Pelicans Insider Photos Game Night Promotional Calendar Know Before You Go A to Z Fan",
+            "New Orleans Pelicans 202324 NBA Roster  ESPN Skip to main content Skip to navigation ESPN NFL NFL NBA NBA NCAAM NCAAM NCAAW NCAAW NHL NHL Soccer Soccer More Sports More Sports ESPN Plus ESPN BET Watch Watch Fantasy Fantasy More ESPN More ESPN Search New Orleans Pelicans Follow",
+            "Videos Photos Summer League Draft Pelicans Podcast Game Notes Live Community Donation Requests Entertainment Inquiries Pierre T. Pelican Team Broadcasting Contact Us Standings Stats Executives Team Leaders Team Roster PelSquad Tickets Season Tickets Partial Plans Premium Experience Group Tickets Single Tickets Ticket Offers and Discounts Connect Copyright  2024 NBA Media Ventures,",
+            "201718 201819 2020s 201920 202021 202122 202223 202324 Bold indicates NBA Finals victory v t e 202122 NBA season by team Draft Summer League AllStar Game Playoffs Finals Transactions NBA 75th Anniversary Team G League Eastern Atlantic Boston Brooklyn New York"
+        ]
+    },
+    {
+        "query": "how many times has lebron james won the nba championship with the boston celtics?",
+        "predicted_answer": "0",
+        "ground_truth": "invalid question",
+        "retrieved_chunk": [
+            "The selfproclaimed King has also been to nine NBA Finals, winning three and losing five. James scored 35 points, secured 15 rebounds and dished out nine assists to lead the Cleveland Cavaliers back to the NBA Finals over the Boston Celtics on Sunday. It is his eighth straight Finals appearance.",
+            "Company About how many times has lebron james won the nba championship Share a link to this question Facebook Twitter COPY Shorten link This answer is live and will keep updating LeBron James has won 4 championships in his career. NAME SEASON TM GP CHAMPS MPG PPG RPG APG SPG BPG",
+            "How Many Times Has Lebron James Won The NBA Championship  StatMuse Home Money Search Trending Sports Trending Money Trending Realtime Gallery Shop Blog Search Examples Data  Glossary Play Elements of Bball Harden Maze Company About how many times has lebron james won the nba championship Share a link to this question",
+            "Almost every Lakers legend has beaten the Celtics in the Finals at some point, and James doing so would help cement him as one of the greatest players in team history despite his short tenure in Los Angeles. The Celtics were LeBrons greatest rival in the Eastern Conference for the first 15 seasons of his career.",
+            "7 Boston Celtics center Bill Russell holds the record for the most NBA championships won with 11 titles during his 13year playing career. 8 He won his first championship with the Boston Celtics in his rookie year ."
+        ]
+    },
+    {
+        "query": "in 2007, which movie was distinguished for its visual effects at the oscars?",
+        "predicted_answer": "2007 Play The Golden Compass.",
+        "ground_truth": "pirates of the caribbean: dead man's chest",
+        "retrieved_chunk": [
+            "2007 Play The Golden Compass VFX Winner The Golden Compass won the Best Visual Effects category at the 80th Academy Awards.",
+            "Visual Effects Oscar by lucaslmota  created  22 Mar 2011  updated  26 Apr 2021  Public Refine See titles to watch",
+            "Between 1972 and 1977, there was no specific award for visual effects. As such work was awarded within the umbrella award called Special Achievement Academy Award.",
+            "1971 The category was named Best Special Visual Effects Best Visual Effects By Decade 1970s  1980s  1990s  2000s  2010s 1970s 45th Academy Awards ,",
+            "Forum Special pages Polls in Academy Awards by category Best Visual Effects Sign in to edit View history Talk 0 Dominic Tuohy , Guillaume Rocheron , Greg Butler , 2019 winners The Academy Award for Best Visual Effects is an Academy Award that recognizes the finest or most outstanding visual effects in film."
+        ]
+    },
+    {
+        "query": "what's the average net worth of the wertheimer brothers?",
+        "predicted_answer": "The average net worth of the Wertheimer brothers is $99.5 billion.",
+        "ground_truth": "$45 million",
+        "retrieved_chunk": [
+            "came to own Chanel, as well as eight homes, vineyards and pedigree racehorses. Photo Wireimage, AFP Alain Wertheimer and his brother Gérard may not be household names, but these two businessmen born in France are together worth US94 billion.",
+            "1996 With brother Gerard, Wertheimer takes ownership of Chanel on fathers death. Latest News Source Bloomberg reporting Methodology The Bloomberg Billionaires Index is a daily ranking of the worlds richest people.",
+            "His brother Alain is also worth 45 billion. Gerard Wertheimer was born in Paris, France in April 1951. He is the coowner of House of Chanel with his brother Alain Wertheimer . House of Chanel was cofounded by his grandfather Pierre Wertheimer.",
+            "Why genderless pieces are high jewellerys next frontier Gérard Wertheimer is now 72yearsold and has two children. Photo Forbes The New York Times once described the brothers as fashions quietest billionaires.",
+            "1951 72 years old Birthplace Paris, France Nationality French  Compare Gerard Wertheimers Net Worth What is Gerard Wertheimers Net Worth Gerard Wertheimer is a French businessman who has a net worth of 45 billion."
+        ]
+    },
+    {
+        "query": "what was the closing price of bitcoin on february 02, 2023?",
+        "predicted_answer": "40,429.92",
+        "ground_truth": "bitcoin closing price on feb 02 2023 is 43,185.86",
+        "retrieved_chunk": [
+            "of 1 Bitcoin to US dollar Exchange Rate for 2023 Select month December November October September August July June May April March February January Date Open High Low Close December Sunday 31 December 2023 42,146.0300 42,863.1100 41,970.3700 42,",
+            "2000 on 01012023 Todays Live Rate 1 BTC 62,697.0000 USD See Todays Bitcoin Prices in US dollar Historical Graph For Converting Bitcoins into US dollars in 2023 Table of 1 Bitcoin to US dollar Exchange Rate for 2023 Select month December November October September August",
+            "Recorded history of daily opens, closes, highs and lows for Bitcoin Denominated in US dollar in 2023 High 44,186.1800 on 08122023 Low 16,528.2000 on 01012023 Todays Live Rate 1 BTC 62,697.",
+            "Jan 2 2023 404 AM EST Updated Tue, Jan 3 2023 312 PM EST Ryan Browne Ryan_Browne_ Arjun Kharpal ArjunKharpal WATCH LIVE Key Points Bitcoin fell over 60 in 2022,",
+            "10 3.56 64,553.65 24H Price 68,837.56 Bitcoin Trend Indicator Learn More Significant Downtrend Neutral Significant Uptrend Buy  Sell Get Crypto Bitcoin Trend Indicator Learn More Significant Downtrend Neutral Significant Uptrend Share Chart About Bitcoin The Bitcoin price is 68,"
+        ]
+    },
+    {
+        "query": "what is the state income tax rate in texas?",
+        "predicted_answer": "0%",
+        "ground_truth": "invalid question",
+        "retrieved_chunk": [
+            "Current Sales Tax Texas has a state sales tax rate of 6.25. Counties, cities, transit, and special purpose districts have the option to impose additional, local sales and use taxes.",
+            "Texas is one of seven states with no income tax. What is the Tax Rate in Texas The Texas tax rate is 0 for income taxes. The states tax revenue primarily is derived from sales taxes and taxes on businesses and industry.",
+            "To make matters worse, rates in most major cities reach this limit. Dallas, Houston and San Antonio all have combined state and local sales tax rates of 8.25, for example. Below are the rates for every county in Texas.",
+            "Sales Taxes in Texas Texass statelevel sales tax is 6.25. Localities can add their own sales taxes on top of this, however, which can bring the rate up to as much as 8.25 in some areas.",
+            "Texas Sales Tax While Texas statewide sales tax rate is a relatively modest 6.25, total sales taxes including county and city taxes of up to 8.25 are levied. To make matters worse, rates in most major cities reach this limit."
+        ]
+    },
+    {
+        "query": "who made the creative decisions for hell swarm?",
+        "predicted_answer": "Tim Matheson directed and starred in the film.",
+        "ground_truth": "tim matheson",
+        "retrieved_chunk": [
+            "Vampire Season 2 Announces Premiere Date Overview Reviews TV Listings Cast  Crew Hell Swarm 2000 2 hr 0 mins Science Fiction NR Watchlist Tim Matheson directed and stars in this scifi thriller about alien parasites who take over the bodies of their human hosts.",
+            "Hell Swarm 2000 directed by Tim Matheson  Film  cast  Letterboxd Letterboxd  Your life in film Username Password Remember me Forgotten username or password   Search Where to watch JustWatch Hell Swarm 2000 Directed by Tim Matheson Synopsis They look like us. They act like us.",
+            "com But, Wait There Will Be More Enter your email address to follow this blog and receive notifications of new posts by email. Email Address Sign Up Here Join 53 other subscribers As an Amazon Associate I earn from qualifying purchases Hell Swarm 2000 Posted on April 4, 2022 September 11,",
+            "And, as one can also say about the films made for Sci Fi, a few of them have proved interesting. But Hell Swarm doesnt really belong in that category. Now, you may have guessed that this is a movie about swarms of killer bees. And you would be right.",
+            "thriller , Tim Matheson , town , TV movie , TV series , United Paramount Network , UPN Categories Movie Reviews One thought on  Hell Swarm 2000  Pingback Virtual Nightmare 2000  rivets on the poster Leave a comment Cancel reply Δ This site uses Akismet to reduce spam."
+        ]
+    },
+    {
+        "query": "which of these actors if younger in age, willow johnson or stephen graham?",
+        "predicted_answer": "Willow Johnson.",
+        "ground_truth": "willow johnson",
+        "retrieved_chunk": [
+            "Stephen Graham  IMDb Menu Movies Release Calendar Top 250 Movies Most Popular Movies Browse Movies by Genre Top Box Office Showtimes  Tickets Movie News India Movie Spotlight TV Shows Whats on TV  Streaming Top 250 TV Shows Most Popular TV Shows Browse TV Shows by Genre TV News Watch What to Watch Latest Trailers IMDb Originals",
+            "EN Fully supported English United States Partially supported Français Canada Français France Deutsch Deutschland हद भरत Italiano Italia Português Brasil Español España Español México Use app Biography Awards Trivia IMDbPro All topics Stephen Graham I Actor Producer Writer IMDbPro Starmeter Top 5,",
+            "Willow Johnson  IMDb Menu Movies Release Calendar Top 250 Movies Most Popular Movies Browse Movies by Genre Top Box Office Showtimes  Tickets Movie News India Movie Spotlight TV Shows Whats on TV  Streaming Top 250 TV Shows Most Popular TV Shows Browse TV Shows by Genre TV News Watch What to Watch Latest Trailers IMDb",
+            "Cast members , Willow TV Recurring Cast Graham Hughes Edit Edit source View history Talk 0 Graham Hughes Gender Male Height 311  119 cm Occupation Actor Appears in Willow 2022 Portrays Silas Graham Hughes is an actor who portrays Silas in the Disney Willow television series.",
+            "External links   Graham Hughes on IMDB Categories Categories  Willow television Cast Cast members Willow TV Recurring Cast Add category Cancel Save Community content is available under CCBYSA unless otherwise noted. Advertisement Fan Feed More Willow Wiki 1 Kit Tanthalos 2 Madmartigan 3 Elora Danan Explore"
+        ]
+    },
+    {
+        "query": "how many actors were in the first matrix movie?",
+        "predicted_answer": "6",
+        "ground_truth": "there were 41 actors in the first matrix movie.",
+        "retrieved_chunk": [
+            "a It is the first installment in the Matrix film series , starring Keanu Reeves , Laurence Fishburne , CarrieAnne Moss , Hugo Weaving , and Joe Pantoliano , and depicts a dystopian future in which humanity is unknowingly trapped inside the Matrix,",
+            "The first movie the Wachowskis directed, Bound , then became a critical success. Using this momentum, they later asked to direct The Matrix .",
+            "215 On August 20, 2019, Warner Bros. Pictures Group chairman Toby Emmerich officially announced that a fourth Matrix film was in the works, with Keanu Reeves and CarrieAnne Moss set to reprise their roles as Neo and Trinity respectively.",
+            "The Matrix 1999  Full Cast  Crew  IMDb Menu Movies Release Calendar Top 250 Movies Most Popular Movies Browse Movies by Genre Top Box Office Showtimes  Tickets Movie News India Movie Spotlight TV Shows Whats on TV  Streaming Top 250 TV Shows Most Popular TV Shows Browse TV Shows by Genre TV News Watch What",
+            "The first movie introduces Neo Reeves, a seemingly normal guy with a skill for hacking. He encounters Trinity Moss and Morpheus Laurence Fishburne, figures who are renowned cybercriminals in the world of the Matrix but who are really members of the human resistance against the Machines in the real world."
+        ]
+    },
+    {
+        "query": "which year did netflix last raise their subscription prices?",
+        "predicted_answer": "2022.",
+        "ground_truth": "2023",
+        "retrieved_chunk": [
+            "Yesterday Netflix announced it will be raising its monthly subscription prices as much as 18 percent  but it has been steadily increasing rates since its first streaming jump in 2014. The hikes will help Netflix pay for its everincreasing content bill.",
+            "The last time Netflix increased prices was in January 2022. Depending on your subscription plan, the price hike adds up to an extra 24 or 36 you pay each year to the streaming service. Below, CNBC Select shares some ways to save on and even benefit from your Netflix subscription.",
+            "Prior, Netflix announced a recent price hike on January 14, 2022, and before that the previous increase was on October 2020, when it went up by 12 from the pricing revealed in January 2019.",
+            "Netflixs entrylevel, adsupported plan its least expensive remains at 6.99 and its Standard tier plan remains at 15.49. The last time Netflix increased prices was in January 2022.",
+            "Netflix price outlook Image credit Miguel Lagoa  Shutterstock Based on recent history, we wouldnt expect a Netflix pricing increase until fall 2023. It could happen sooner, especially if Netflixs games becomes something it thinks it can charge more for."
+        ]
+    },
+    {
+        "query": "is the last resort the original title of the movie?",
+        "predicted_answer": "The Last Resort is the original title of the movie.",
+        "ground_truth": "true",
+        "retrieved_chunk": [
+            "Trivia FAQ IMDbPro All topics Last Resort 1986 R 1h 24m IMDb RATING 4.",
+            "reviews FAQ IMDbPro All topics The Last Resort 2009 R 1h 15m IMDb RATING 3.0  10 1.",
+            "Poor Randy Meisner. The Last Resort The Last Resort may have been merely the Bside to Life in the Fast Line, but Don Henley has always claimed the 1976 epic is one of his best works.",
+            "The Last Resort 2009  IMDb Menu Movies Release Calendar Top 250 Movies Most Popular Movies Browse Movies by Genre Top Box Office Showtimes  Tickets Movie News India Movie Spotlight TV Shows Whats on TV  Streaming Top 250 TV Shows Most Popular TV Shows Browse TV Shows by Genre TV News Watch What to Watch Latest",
+            "Was this review helpful Sign in to vote. Permalink 3 10 The resort is cheap and nasty, like the movie Groverdox 10 May 2016 Warning Spoilers Last Resort involves an island retreat that seems cut price and crappy less as a plot development than a necessity of the movies cut price and crappy production values."
+        ]
+    },
+    {
+        "query": "when did sally become the first film to be made entirely in the technicolor process 3?",
+        "predicted_answer": "1929",
+        "ground_truth": "invalid question",
+        "retrieved_chunk": [
+            "In 1931, an improvement of Technicolor Process 3 was developed that removed grain from the Technicolor film, resulting in more vivid and vibrant colors. 17 This process was first used on a Radio Picture entitled The Runaround 1931.",
+            "Definitive Technicolor movies using three black and white films running through a special camera 3strip Technicolor or Process 4 started in the early 1930s and continued through to the mid1950s when the 3strip camera was replaced by a standard camera loaded with single strip monopack color negative",
+            "16 Process 3  edit  Example of Process 3 Technicolor. Myrna Loy and Walter Pidgeon in Bride of the Regiment 1930 Based on the same dyetransfer technique first applied to motion pictures in 1916 by Max Handschiegl,",
+            "Beginning in 1932, Technicolor introduced a new fullcolor process,  Process 4 , now commonly called threestrip Technicolor because the special camera used for liveaction filming yielded separate blackandwhite negatives for each of the three primary colors .",
+            "Sally 1929 All Technicolor Musical Comedy with Marilyn Miller . External links  edit  Sally at IMDb Sally at the TCM Movie Database Sally at AllMovie Sally at the American Film Institute Catalog v t e Films directed by John Francis Dillon 1910s The Key to Yesterday 1914 His Taking Ways uncredited 1914 Cats,"
+        ]
+    },
+    {
+        "query": "what's the trading volume of ccldo on the last trading day?",
+        "predicted_answer": "444.512K",
+        "ground_truth": "1800",
+        "retrieved_chunk": [
+            "CCLDO Stock Price  CareCloud Inc. 8.75 Cum. Redeem. Pfd. Series B Stock Quote U.S. Nasdaq  MarketWatch Skip to main content Main Menu Home Latest News Watchlist Market Data Center U.S.",
+            "Nasdaq CareCloud Inc. 8.75 Cum. Redeem. Pfd. Series B Watch list Alert NEW Set a price target alert OK CCLDO US Open Last Updated Feb 28, 2024 950 a.m. EST Delayed quote  5.",
+            "Open 2.050 Close  Volume  Avg. 73.779K  444.512K Day Range 2.009  2.080 52 Wk Range 1.040  3.330 Market Cap 109.",
+            "02 0.02 Gold 2,158.00 3.50 0.16 Bitcoin USD BTCUSD CCC  CoinMarketCap.",
+            "The total volume of trade in the market is 750 500 shares of ABC  250 XYZ shares. This is because we do not doublecount the volumewhen trader 1 buys 500 ABC shares from trader 2, only 500 shares are counted."
+        ]
+    },
+    {
+        "query": "which film received better critic ratings from rotten tomatoes, shutter island or the wolf of wall street?",
+        "predicted_answer": "The Wolf of Wall Street.",
+        "ground_truth": "the wolf of wall street",
+        "retrieved_chunk": [
+            "starring Idris Elba and Naomie Harris . What do the critics have to say The Wolf of Wall Street 80 Martin Scorsese knows how to capture the vicarious allure of criminality better than just about any other filmmaker.",
+            "More Starring Willem Dafoe , Harvey Keitel , Barbara Hershey , Paul Greco Directed By Martin Scorsese 20 The Wolf of Wall Street 2013 80 20 Adjusted Score 93429 Critics Consensus Funny, selfreferential, and irreverent to a fault,",
+            "Critics say hes in fine form with The Wolf of Wall Street , a slick, sleek, and surprisingly funny tale of financial fraud that features a riveting performance from Leonardo DiCaprio.",
+            "Critics Consensus The Wolf of Wall Street is Certified Fresh  Rotten Tomatoes Home Top Box Office Tickets  Showtimes DVD  Streaming TV News SIGN UP LOG IN Jester McGree Logout Whats the Tomatometer RT Critics Home Box Office TV DVD MORE News Movies TV Shows News Tickets  Showtimes Trending on RT Critics Consensus Critics Consensus The Wolf of Wall Street is Certified Fresh Plus, Walter Mitty is sincere but uneven, Grudge Match and 47 Ronin lose the battle, Mandela is wellacted, and Believe was not screened for critics.",
+            "selfreferential, and irreverent to a fault, The Wolf of Wall Street finds Martin Scorsese and Leonardo DiCaprio at their most infectiously dynamic."
+        ]
+    },
+    {
+        "query": "which political office does ben affleck currently hold?",
+        "predicted_answer": "Ben Affleck does not currently hold any political office.",
+        "ground_truth": "invalid question",
+        "retrieved_chunk": [
+            "Us ABC News Network   2024 ABC News Internet Ventures. All rights reserved. Ben Affleck to Run for Office Probably Not By Elizabeth Hartfield December 21, 2012 Ben Affleck has been an increasingly popular presence in the political realm as of late.",
+            "And even his exwife, Jennifer Garner , believes Affleck might get into politics one day. Right now Ben feels like he can do more good for people politically from outside the system ... Would I be surprised if one day he did go into politics No.",
+            "Politics, causes, and personal life Jennifer Lopez and Ben Affleck Jennifer Lopez and Ben Affleck, 2023. more Affleck was active in politics, and he frequently appeared at Democratic rallies and as a guest on political talk shows, such as Real Time with Bill Maher .",
+            "Affleck, 40, grew up in Cambridge, Mass. But it turns out running for political office might be a stretch too far for the actor and activist.",
+            "But not now, she told Allure via The Guardian  in 2013. Ben Affleck is concerned about our democracy TinseltownShutterstock Although he might not be ready to run for office, Ben Affleck had a lot to say about the voting process at a virtual fundraiser,"
+        ]
+    },
+    {
+        "query": "who are the main celebrity actors in pirates of the caribbean?",
+        "predicted_answer": "1. Johnny Depp as Captain Jack Sparrow 2. Geoffrey Rush as Captain Hector Barbossa 3. Kevin R. McNally as Joshamee Gibbs 4. Orlando Bloom as Will Turner 5. Keira Knightley as Elizabeth Swann 6. Penelope Cruz as Captain Salma 7. javier bardem as Captain Balthazar 8. chris cooper as Captain Blackbeard 9. keith richards as Captain Feathersword 10. eddie redmayne as Captain Jack Sparrow (deleted scene)",
+        "ground_truth": "the main actors in pirates of the caribbean are johnny depp, orlando bloom, geoffrey rush, kiera knightley and kevin mcnally.",
+        "retrieved_chunk": [
+            "List of Pirates of the Caribbean film actors  Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Donate Contribute Help Learn to edit Community portal Recent changes Upload file Search Search Create account Log in Personal tools Create account Log in Pages for logged out editors learn",
+            "This is a list of Pirates of the Caribbean film actors who portrayed appearing in the film series. The list below is sorted by film and the characters surname, as some characters have been portrayed by multiple actors.",
+            "List of Pirates of the Caribbean film actors 1 language Português Edit links Article Talk English Read Edit View history Tools Tools move to sidebar hide Actions Read Edit View history General What links here Related changes Upload file Special pages Permanent link Page information Cite this page Get shortened URL Download QR code Wikidata item Printexport Download",
+            "The list of Pirates of the Caribbean cast members is a list of actors who voiced or portrayed characters appearing in the various media particularly the film series  based on Walt Disney s Pirates of the Caribbean . The films star Johnny Depp in his iconic role as Captain Jack Sparrow , followed by franchise vets Geoffrey Rush as the vengeful Captain Hector Barbossa and Kevin R. McNally as Captain Jacks longtime comrade Joshamee Gibbs . Alongside Depp, Orlando Bloom  Will Turner  and Keira Knightley  Elizabeth Swann  appeared as starring roles until their characters stories had concluded with a postcredit sequence in the third film however, both Bloom and Knightley will have cameo appearances in the fifth film.",
+            "To jog viewers memories, here is a list of ten actors that appeared in the popular pirate franchise. 10 Penelope Cruz Viewers of the Pirates of the Caribbean franchise may have forgotten that Penelope Cruz lent her acting talents to Pirates of the Caribbean On Stranger Tides ."
+        ]
+    },
+    {
+        "query": "how many mystery movies were released during the year 2020?",
+        "predicted_answer": "1",
+        "ground_truth": "146",
+        "retrieved_chunk": [
+            "1972 The Exorcist 1973 Chinatown 1974 One Flew Over the Cuckoos Nest 1975 19762000 Rocky 1976 The Turning Point",
+            "Reset Release year or range to  Halloween 56 Psychotronic Film 54 Blood 51 Supernatural Power 50 Cult Film 45 Murder 45 Death 43 Ghost 41 Good Versus Evil 37 Monster 37 Surrealism 37 Fear 36 Violence 36 Dog 34 Surprise Ending 34",
+            "041,698 2001 77 Harry Potter and the Chamber of Secrets 882,544,927 2002 78 Spectre 880,707,597 2015 79 SpiderMan Homecoming 880,167,151 2017 80 Ice Age Continental Drift 877,244,",
+            "Crystal Skull 2008 The Adventures of Tintin 2011 War Horse 2011 Lincoln 2012 Bridge of Spies 2015 The BFG 2016 The Post 2017 Ready Player One 2018 West Side Story 2021 The Fabelmans 2022 Short films Slipstream",
+            "2018present Terminator 2 Judgment Day 1992 A Few Good Men 1993 Menace II Society 1994 Pulp Fiction 1995 Seven 1996 Scream 1997 Titanic 1998 Theres Something About Mary 1999 The Matrix 2000 Gladiator 2001 The Lord of"
+        ]
+    },
+    {
+        "query": "who won the best actor oscar for their performance in a movie in 2012?",
+        "predicted_answer": "The information provided in the context does not mention who won the Best Actor Oscar for their performance in a movie in 2012.",
+        "ground_truth": "jean dujardin",
+        "retrieved_chunk": [
+            "and nominations  edit  The following individuals received two or more Best Actor awards Wins Actor Nominations 3 Daniel DayLewis 6 2 Spencer Tracy 9 Jack Nicholson 8 Marlon Brando 7 Dustin Hoffman Gary Cooper 5 Tom Hanks Fredric March Sean Penn Anthony Hopkins 4 The following individuals",
+            "The winning actors are given a goldplated statuette known as an Oscar . Daniel DayLewis has won the most Academy Awards for best actor three, and a number of actors have received two such Oscars, including Spencer Tracy and Tom Hanks , both of whom won in consecutive years.",
+            "Academy Awards, USA 2012  IMDb Menu Movies Release Calendar Top 250 Movies Most Popular Movies Browse Movies by Genre Top Box Office Showtimes  Tickets Movie News India Movie Spotlight TV Shows Whats on TV  Streaming Top 250 TV Shows Most Popular TV Shows Browse TV Shows by Genre TV News Watch What to",
+            "Academy Award for Best Actor  Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Donate Contribute Help Learn to edit Community portal Recent changes Upload file Search Search Create account Log in Personal tools Create account Log in Pages for logged out editors learn more",
+            "12year dry spell with Best Picture and Best Actor Oscar wins From Iron Man to gold man Robert Downey Jr. Oppenheimer wins Oscar for Best Supporting Actor Watch our live Oscars 2024 streaming postshow debating winners, losers,"
+        ]
+    },
+    {
+        "query": "who was the first actress to play the role of a female assassin in a live-action movie?",
+        "predicted_answer": "It is difficult to determine the exact first actress to play the role of a female assassin in a live-action movie as the information provided does not mention any specific actress or movie. However, it is worth noting that the role of a female assassin has become increasingly popular in recent years and has been portrayed by many actresses in various movies and TV shows.",
+        "ground_truth": "meiko kaji was the first actress to play the role of a female assassin in a live-action movie, in her portrayal of yuki kashima in the 1973 film lady snowblood.",
+        "retrieved_chunk": [
+            "Aided by her estranged mother  Lena Headey  and members of the sisterhood of assassins  Carla Gugino , Michelle Yeoh , and Angela Basset , the film flaunts not just one but five guntoting gals to be one of the best female assassin movies.",
+            "2004s House of Flying Daggers is an enticing hybrid of wuxias trademark style and a complicated romance, with one of the best female assassins in film to boot.",
+            "Ranked  11 of 20 on The Most Lethal Assassins In Movie History  8 of 58 on The Greatest Fictional Characters Leading Double Lives Photo  Underwrold  Screen Gems 5 154 VOTES Selene  Underworld Kate Beckinsale has played Selene throughout the",
+            "Its time to vote for your favorite female assassins from film and TV. There have been many over the years, and some of them have made an indelible impact on pop culture. Its no wonder that actresses want to play female assassin characters.",
+            "Its no wonder that actresses want to play female assassin characters. Such roles allow them to do a lot of things. Typically, these characters have some kind of troubled backstory that impacts them in the present."
+        ]
+    },
+    {
+        "query": "how many meters taller is kaligandaki a hydroelectric power station than gilgel gibe iii dam?",
+        "predicted_answer": "I'm sorry, but I am unable to answer your question as there is no information provided about the height of the \"Kaligandaki hydroelectric power station\" and the \"Gilgel Gibe III Dam.\"",
+        "ground_truth": "invalid question",
+        "retrieved_chunk": [
+            "diversion Turbines 3 x 61.3 MW Francistype Installed capacity 184 MW The Gilgel Gibe I Dam is a rockfilled embankment dam on the Gilgel Gibe River in Ethiopia .",
+            "It is located about 57 km 35 mi northeast of Jimma in Oromia Region . The primary purpose of the dam is hydroelectric power production. The Gilgel Gibe I hydroelectric powerplant has an installed capacity of 184 MW , enough to power over 123,200 households.",
+            "edit on Wikidata  The Gilgel Gibe II Power Station is a hydroelectric power station on the Omo River in Ethiopia . It is located about 80 km 50 mi east of Jimma in WolaitaDawro Region .",
+            "000 acreft Active capacity 717,000,000 m 3 581,000 acreft Gilgel Gibe I Power Station Coordinates 75431.88N 372224.33E    7.9088556N 37.3734250E   7.",
+            "56222E   7.75694 37.56222 From Wikipedia, the free encyclopedia Power station in Ethiopia Gilgel Gibe II Power Station Country Ethiopia Location Jimma , Oromia Region Coordinates 74525N 373344E    7.75694N 37."
+        ]
+    },
+    {
+        "query": "how many number one hit songs does lady gaga have?",
+        "predicted_answer": "0",
+        "ground_truth": "7",
+        "retrieved_chunk": [
+            "She chose 3 instead. Included on The Fame Monster and peaking at No. 3, the song is, hands down, one of Gagas best dancepop moments.",
+            "Lady Gagas 30 greatest songs  ranked  Lady Gaga  The Guardian Skip to main content Skip to navigation Close dialogue 1  3 Next image Previous image Toggle caption Skip to navigation News Opinion Sport Culture Lifestyle Show More Show More News View all News US news US elections 2024 World news Environment Ukraine Soccer Business",
+            "Telephone And to think Gaga never even wanted to record this song herself. It was originally written for Britney Spears to include on a greatest hits compilation. She chose 3 instead. Included on The Fame Monster and peaking at No.",
+            "were ranking each of Lady Gagas singles to reach the top 10 on the Billboard Hot 100. Find out if your fave came out on top By Billy Nilles May 23,",
+            "The Ultimate Ranking of Lady Gagas 15 Biggest Hit Singles News Photos Videos Kardashians E Insider Spring Sales Shop LOGIN The Ultimate Ranking of Lady Gagas 15 Biggest Hit Singles In honor of Born This Way s ninth anniversary on May 23,"
+        ]
+    },
+    {
+        "query": "did the song rolling stone precede the song one more time?",
+        "predicted_answer": "Yes, The Rolling Stones recorded and released the song \"One More Time\" before \"Rolling Stone.\"",
+        "ground_truth": "yes",
+        "retrieved_chunk": [
+            "When we arrived, we didnt have a hit record or anything going for us. However, in October of that same year, sales of The Rolling Stones records started to pick up. Their single Time Is on My Side reached 6 on the US charts and the group decided to return to America.",
+            "On May 2, 1965 Ed Sullivan introduced The Rolling Stones to perform The Last Time, which would be the first time they sang a JaggerRichards original on the show. Next followed the bluesy Little Red Rooster, and Someone to Love.",
+            "Crowds picked up again at the New York concert. Once back in Europe, the Rolling Stones released their fourth single, Bobby Womacks Its All Over Now, which they had recorded in America at Chess Studios.",
+            "Rolling Stone  Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Donate Contribute Help Learn to edit Community portal Recent changes Upload file Search Search Create account Log in Personal tools Create account Log in Pages for logged out editors learn more Contributions Talk Contents move",
+            "On The Cover Of The Rolling Stone  . uDiscoverMusic. Archived from the original on August 15, 2019 . Retrieved August 15, 2019 ."
+        ]
+    },
+    {
+        "query": "how many islands are there in the philippines",
+        "predicted_answer": "7,641",
+        "ground_truth": "the philippines is an archipelago that comprises 7,641 islands",
+        "retrieved_chunk": [
+            "of the Philippines Related posts How many islands are in the Philippines The Philippine archipelago is composed of 7,641 islands, a figure that often fluctuates due to tidal changes and updated geographical assessments.",
+            "Photograph by HelloRF ZCool, Shutterstock 15 min read Located in the Pacific Ocean near the equator, the Republic of the Philippines consists of around 7,640 islands  about 2,000 of which are inhabited  that form an archipelago.",
+            "How many islands are there in the Philippines Well, the official count stands at 7,641 islands. But heres the catchits not a static number. Due to the natural ebb and flow of tides, some islets and sandbars appear and disappear, making the count fluctuate.",
+            "the Philippines is composed of 7,641 islands. Q2 How is the number of islands determined A2  NAMRIA, the governments mapping agency, conducts geographical surveys that often involve aerial and marine reconnaissance, as well as satellite imagery, to arrive at the official count.",
+            "The first time I ever visited the Philippines, I remember wondering if it would ever be possible to visit every single Filipino island. The sheer number of islands in the archipelago is staggering, with an estimated 7,641 islands and atolls at the last count."
+        ]
+    },
+    {
+        "query": "in 2021-12, which teams were able to come out on top against golden state warriors?",
+        "predicted_answer": "2021-12 was the 76th season of the Golden State Warriors in the National Basketball Association NBA. It was their 60th in the San Francisco Bay Area. During this season, the Golden State Warriors faced various teams and had different outcomes. Some of the teams that were able to come out on top against the Golden State Warriors in 2021-12 include the Cleveland Cavaliers, who they lost to in the Finals, and the Toronto Raptors, who they defeated in the Conference Finals.",
+        "ground_truth": "denver nuggets, philadelphia 76ers, san antonio spurs, toronto raptors",
+        "retrieved_chunk": [
+            "202122 Golden State Warriors season  Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Donate Contribute Help Learn to edit Community portal Recent changes Upload file Search Search Create account Log in Personal tools Create account Log in Pages for logged out editors learn more Contributions",
+            "com Local media Television NBC Sports Bay Area Radio 95.7 The Game  202021 202223  The 202122 Golden State Warriors season was the 76th season of the franchise in the National Basketball Association NBA, its 60th in the San Francisco Bay Area ,",
+            "San Antonio Spurs 2006 Miami Heat 2007 San Antonio Spurs 2008 Boston Celtics 2009 Los Angeles Lakers 2010s 2010 Los Angeles Lakers 2011 Dallas Mavericks 2012 Miami Heat 2013 Miami Heat 2014 San Antonio Spurs 2015 Golden State Warriors 2016 Cleveland Cavaliers 2017 Golden State Warriors 2018 Golden State Warriors 2019 Toronto Raptors 2020s 2020 Los Angeles Lakers 2021 Milwaukee Bucks 2022 Golden State Warriors 2023 Denver Nuggets Portal  Sports Retrieved from  httpsen.wikipedia.orgwindex.phptitle202122_Golden_State_Warriors_seasonoldid1211274174  Categories  Golden State Warriors seasons 202122 NBA season by team Western Conference NBA championship seasons NBA championship seasons 2021 in San Francisco 2022 in San Francisco 2021 in sports in California 2022 in sports in California Hidden categories Articles with short description Short description matches Wikidata Use mdy dates from August 2023 Short description is different from Wikidata Articles with hCards Pages using TemplateCollege with unsupported name Pages using NBA roster footer with unknown parameters This page was last edited on 1 March 2024,",
+            "Many analysts and fans would pick this team to beat any team in NBA history. Golden State secured backtoback titles in dominating fashion Warriors vs.",
+            "They unfortunately lost to the Cavaliers in a Finals collapse as they blew a 31 lead and their chance to cap off a perfect season was ruined. However, the 2016 Golden State Warriors will forever be known as the most dominant team in the league that revolutionized basketball."
+        ]
+    },
+    {
+        "query": "what are the 3 most recent awards has steven spielberg won?",
+        "predicted_answer": "2006 Producers Guild of America Awards, 2004 American Film Institute AFI Life Achievement Award, 1999 Golden Globe Awards",
+        "ground_truth": "best motion picture - drama (2023), best director - motion picture (2023), and best motion picture - musical or comedy (2022)",
+        "retrieved_chunk": [
+            "but one director stands above the rest. Steven Spielberg, the mind behind J aws, Raiders of the Lost Ark, E.T., The Color Purple, Hook, Jurassic Park and Schindlers List , has won three Academy Awards during his career.",
+            "Over the span of his career Spielberg has won three Academy Awards.",
+            "Over the span of his career Spielberg has won three Academy Awards. He was nominated for seven Academy Awards for the category of Best Director, and won two of them Schindlers List and Saving Private Ryan, and eleven of the films he directed were nominated for the Best Picture Oscar  Schindlers List won. The following is an impressive list of his other awards In 1987, Spielberg was awarded the Irving G. Thalberg Memorial Award for his work as a creative producer. In 1995 Steven Spielberg received the American Film Institute AFI Life Achievement Award . In 1998, Spielberg was awarded the Federal Cross of Merit with Ribbon of the Federal Republic of Germany in recognition of his film Schindlers List and his ShoahFoundation. Steven Spielberg is also an honorary knight, both in the United Kingdom, where he was appointed as an honorary Knight Commander of the Order of the British Empire KBE by Queen Elizabeth II for services to the entertainment industry of the United Kingdom and in France. In 2004, he was admitted as knight of the Légion dhonneur by President Jacques Chirac. 2006 was another successful year for Spielberg.",
+            "He began his career in the New Hollywood era and is currently the most commercially successful director . Spielberg is the recipient of various awards including three Academy Awards with two for Best Director , two British Academy Film Awards , twelve Emmy Awards , nine Golden Globe Awards , three Directors Guild of America Awards , and seven Producers Guild of America Awards .",
+            "With The Fabelmans up for three awards, including best picture, lets take a look at Spielbergs past movies that were also in the running for the top award  and which have won."
+        ]
+    },
+    {
+        "query": "what was the first animated movie, full-length, ever released?",
+        "predicted_answer": "1937 Snow White and the Seven Dwarfs\n\nExplanation: The information provided states that 1937 Snow White and the Seven Dwarfs was the first fully animated feature film, which is a movie that is longer than 80 minutes in length. This information is also supported by the fact that it was released with a new French soundtrack in April 1941 and was the first French animated film.",
+        "ground_truth": "snow white and the seven dwarfs.",
+        "retrieved_chunk": [
+            "The first animated feature film to be presented in Technicolor .",
+            "Image via Milestone Films Conventional filmbuff wisdom tells us that Walt Disney s 1937 Snow White and the Seven Dwarfs is the oldest fully animated feature film, but history proves otherwise.",
+            "It was also the first French animated film. April 10, 1937  19370410  Academy Award Review of Walt Disney Cartoons United States Burt Gillett Wilfred Jackson David Hand Traditional Package film.",
+            "It premiered in Berlin in 1937 with a German soundtrack, and was released with a new French soundtrack in April 1941. It was also the first French animated film.",
+            "link Page information Cite this page Get shortened URL Download QR code Wikidata item Printexport Download as PDF Printable version From Wikipedia, the free encyclopedia List of animated feature films before 1940 This article needs additional citations for verification . Please help improve this article by adding citations to reliable sources ."
+        ]
+    },
+    {
+        "query": "where did the lead designer of java (programming language) receive his ph.d.?",
+        "predicted_answer": "1. Canada\n2. United States\n3. United Kingdom\n4. Australia The lead designer of Java, James Gosling, received his Ph.D. in Canada.",
+        "ground_truth": "carnegie mellon university",
+        "retrieved_chunk": [
+            "is the name that easily comes to ones mind when we think of pioneers of programming language. Born in Canada, in May 1955, James Arthur Gosling went on to become the founder and lead designer of Java Programming Language.",
+            "How Was Java Created James Gosling chose Sun Microsystem after completing his Ph.D.",
+            "for work in 1984. One day he came across a problem while trying to write a program to translate software code from one language to other, and like many inventions, this led to the creation of the Java programming language.",
+            "Java was developed by James Gosling, who is known as the father of Java, in 1995. James Gosling and his team members started the project in the early 90s. Currently, Java is used in internet programming, mobile devices, games, ebusiness solutions, etc.",
+            "best known as the founder and lead designer behind the Java programming language. Gosling was elected a member of the National Academy of Engineering in 2004 for the conception and development of the architecture for the Java programming language and for contributions to window systems."
+        ]
+    },
+    {
+        "query": "how many times has emma stone showcased her singing talent in a movie?",
+        "predicted_answer": "1",
+        "ground_truth": "emma stone has showcased her singing talents in two movies: \"la la land\" and \"easy a.\"",
+        "retrieved_chunk": [
+            "Did Emma Stone sing by herself in La La land Emma Stone spent three months training for her role in the romantic comedy movie. The actress and colead, Ryan Gosling , devoted their time to learning new skills for the film.",
+            "Now fans wonder, is singing included in her list of talents While Emma Stone is no professional singer or recording artist, the actress can definitely sing. She showcased her vocal prowess in La La Land , the movie that brought in her first Oscar award.",
+            "Bravo to themtheir outstanding performance got them each acting nominations at the 2017 Academy Awards. Emma Stone was, in fact, the voice behind all her characters original score. It shows us that when an actress means business, she goes after it and doesnt stop until she nails the performance.",
+            "The performance also resulted in a Golden Globe nomination, her first major award recognition. Since then, Stone has appeared in more than a dozen movies and earned five Academy Award nominations, including one win for Best Actress in 2016s La La Land .",
+            "Some people criticized the director and the actors for using body doubles for the dancing in the film. How many songs has Emma Stone released Its amazing when people understand that they dont have to take advantage of every opportunity that comes their way."
+        ]
+    },
+    {
+        "query": "when did george clooney and amal clooney have their 3rd baby?",
+        "predicted_answer": "2023.",
+        "ground_truth": "invalid question",
+        "retrieved_chunk": [
+            "There is nothing I can do to help, but make tea and stuff. June 2017 Amal and George Clooney welcome twins On June 6, the couple became firsttime parents to twins , son Alexander and daughter Ella.",
+            "4, 2023 in London. Gareth Cattermole  Getty Images George and Amal Clooney have been married since 2014 and are parents to twins Ella and Alexander.",
+            "George and Amal Clooney expecting twins  . BBC News . 10 February 2017.  Rothman, Michael 10 February 2017. Matt Damon Says George and Amal Clooney Will Be Great Parents  . ABC News .",
+            "Keep reading to learn more about George and Amals children. Related Related Julia Roberts Says She and George Clooney Share a Similar Approach to Life Hes One of My People Alexander Clooney George and Amals son, Alexander, was born on June 6, 2017.",
+            "He said he was on his knee for 20 minutes and waiting for her to say yes because she was so shocked. September 2014 George and Amal Clooney make their red carpet debut as a couple By September of 2014, the pair was stepping out together in public."
+        ]
+    },
+    {
+        "query": "what is the vertical distance between usoi dam and tabqa dam in meters?",
+        "predicted_answer": "360",
+        "ground_truth": "507",
+        "retrieved_chunk": [
+            "5 6 Originally, the Tabqa Dam was conceived as a dualpurpose dam. The dam would include a hydroelectric power station with eight turbines capable of producing 880 MW in total, and would irrigate an area of 640,000 hectares 2,500 sq mi on both sides of the Euphrates.",
+            "36 SDF forces announced they captured the dam on 10 May 2017. 40 Characteristics of the dam and the reservoir  edit  Map of the wider Lake Assad region The Tabqa dam is located on a spot where rocky outcrops on each side of the Euphrates Valley are less than 5 kilometres 3.1 mi apart.",
+            "680 ft Reservoir Creates Lake Assad Inactive capacity 11.7 km 3 2.8 cu mi Surface area 610 km 2 236 sq mi Power Station Commission date July 19738 March 1978 Turbines 8 x 103 MW Kaplantype Installed capacity 824 MW The Tabqa Dam  Arabic  سد الطبقة ,",
+            "87222 38.56667 From Wikipedia, the free encyclopedia Dam in Raqqa Governorate, Syria Tabqa Dam Tabqa Dam Location of Tabqa Dam in Syria Official name سد الثورة Country Syria , controlled by Syrian Democratic Forces Location AlThawrah District , Raqqa Governorate ,",
+            "657 ft Satellite photo showing the Usoi Dam, the western end of Sarez Lake and the smaller Shadau Lake The Usoi Dam is a natural landslide dam along the Murghab River in Tajikistan ."
+        ]
+    },
+    {
+        "query": "what price did the ppg industries open today?",
+        "predicted_answer": "141.21",
+        "ground_truth": "$140.47",
+        "retrieved_chunk": [
+            "analysts, keywords Log in PPG PPG Industries, Inc. Stock Price  Overview Follow  141.21 0.30  0.21  1032 AM 022824 NYSE  USD  Realtime Summary Ratings Financials Earnings Dividends Valuation Growth Profitability Momentum",
+            "PPG Industries, Inc. PPG Stock Price, Quote, News  Analysis Skip to content Create Free Account Explore Alpha Picks Home Stock Analysis Collapse menu Stock Ideas Market Outlook Investing Strategy Long Ideas IPO Analysis Editors Picks Cryptocurrency Market News Collapse menu Top Market News Notable Calls On The Move Earnings News Energy Stock News",
+            "colorchange products, and photochromic dyes. PPG Industries, Inc. was incorporated in 1883 and is headquartered in Pittsburgh, Pennsylvania. Hide Sector Materials Industry Specialty Chemicals Employees 53,000 Founded 1883 Address One PPG Place Pittsburgh, PA,",
+            "economy SA News Fri, Jan. 19 PPG NonGAAP EPS of 1.53 beats by 0.03, revenue of 4.35B beats by 80M SA News Thu, Jan. 18 PPG declares 0.65 dividend SA News Thu, Jan.",
+            "18 PPG declares 0.65 dividend SA News Thu, Jan. 18 1 Comment PPG Q4 2023 Earnings Preview SA News Wed, Jan."
+        ]
+    },
+    {
+        "query": "what was tbmc's closing price yesterday?",
+        "predicted_answer": "1.300",
+        "ground_truth": "$10.53",
+        "retrieved_chunk": [
+            "11 0.24 0.30 Gold 2,042.30 1.80 0.09 Trailblazer Merger Corporation I TBMC NasdaqGM  NasdaqGM Real Time Price.",
+            "Trailblazer Merger Corporation I TBMC Stock Price, News, Quote  History  Yahoo Finance Home Mail News Finance Sports Entertainment Search Mobile More.",
+            "350 Close 1.330 Low 1.320 High 1.350 20240215 Open 1.370 Close 1.340 Low 1.340 High 1.",
+            "481,418 Dec 09, 2023 44,180.02 44,361.26 43,627.60 43,725.98 43,725.98 17,368,210,171 Close price adjusted for splits.",
+            "370 Close 1.340 Low 1.340 High 1.380 20240214 Open 1.265 Close 1.300 Low 1.265 High 1.300 20240213 Open 1.210 Close 1.230 Low 1.210 High 1."
+        ]
+    },
+    {
+        "query": "when did charles jarrott's mother give birth to them?",
+        "predicted_answer": "1927. Charles Jarrott was born on June 16, 1927 in London, England.",
+        "ground_truth": "6/16/27",
+        "retrieved_chunk": [
+            "Charles Jarrott  Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Donate Contribute Help Learn to edit Community portal Recent changes Upload file Search Search Create account Log in Personal tools Create account Log in Pages for logged out editors learn more Contributions Talk Contents move",
+            "Charles Jarrott Born  19270616  16 June 1927 London, England Died 4 March 2011 20110304 aged 83 Woodland Hills, California ,",
+            "From Wikipedia, the free encyclopedia. Charles Jarrott 16 June 1927  4 March 2011 was a British film and television director.",
+            "83 m Mini Bio Charles Jarrott was born on June 16, 1927 in London, England, UK. He was a director and actor, known for The Secret Life of Algernon 1998 , Anne of the Thousand Days 1969 and Encounter 1952 .",
+            "IMDbPro All topics Biography Charles Jarrott Jump to Overview 4 Mini Bio 1 Family 2 Trivia 4 Edit Overview Born June 16 ,"
+        ]
+    },
+    {
+        "query": "who was the ceo of apple in 2010?",
+        "predicted_answer": "Steve Jobs.",
+        "ground_truth": "steve jobs",
+        "retrieved_chunk": [
+            "1998 to 2010 Apple,",
+            "Tim Cook became Apples CEO after the death of the companys legendary cofounder Steve Jobs. Jeff Chiu Associated Press Redeem now Tim Cook became CEO of Apple in August 2011. At the time, many wondered if he could fill the shoes left by his predecessor Steve Jobs.",
+            "Cook served as interim CEO in 2004 and 2009. During this time, Cook oversaw the announcement of iCloud and launch of iPad 2. Before taking the helm of Apple, Cook was known for his business brilliance.",
+            "Hes also responsible for the introduction of AirPods. Perhaps some of his greatest accomplishments can be seen at the supply chain and operations level. For instance, when Apple shifted to inhouse M1 processors in 2020 instead of Intel chips, revenues skyrocketed by over 70.",
+            "Meanwhile, Steve Jobs had just come into power as Apples CEO , following the ouster of Gil Amelio. Jobs had the tough task of turning the company around after many years of fading relevance. He went looking for fresh blood for his executive team."
+        ]
+    },
+    {
+        "query": "what were 3 of the most watched halloween movies of all time?",
+        "predicted_answer": "The 92 Best Halloween Movies of All Time  PureWow  entertainment  The 92 Best Halloween Movies of All Time  Spooky season has arrived  By Rachel Bowie  Published Oct 30, 2023  Additional reporting by Nakeisha Campbell  PureWow editors  select every item that appears on this page,  The list is based on a comprehensive look at the Halloween genre by our sister site ET Online.  The best horror movies, of course, made the list.  And, yes, Halloween TV classics such as It's a Great Pumpkin, Charlie Brown were considered too.  But what if you could celebrate pumpkinspice season by watching a great Halloween movie?  Here's a countdown of the 10 best Halloween movies of all time.  The list is based on a comprehensive look at the Halloween genre by our sister site ET Online.  The 92 Best Halloween Movies of All Time  PureWow  entertainment  The 92 Best Halloween Movies of All Time  Spooky season has arrived  By Rachel Bowie  Published Oct 30, 2023  Additional reporting",
+        "ground_truth": "hocus pocus, halloween (2018), beetlejuice",
+        "retrieved_chunk": [
+            "Mattresses of 2024 Bathing Suits for Women Holidays Halloween 2023 Costumes, Food  Decor 80 Best Halloween Movies of AllTime 80 Best Halloween Movies of AllTime From the scariest classics to fun kids movies, watch these when youre in the mood for a fright.",
+            "But what if you could celebrate pumpkinspice season by watching a great Halloween movie Heres a countdown of the 10 best Halloween movies of all time. The list is based on a comprehensive look at the Halloween genre by our sister site ET Online .",
+            "RELATED 37 Funny Halloween Movies to Watch Right Now, from Clue to Scream What Is the Most Watched Halloween Movie of All Time To address one of the biggest debates, both Vudu and Fandango surveyed viewers to get an answer once and for all.",
+            "The 92 Best Halloween Movies of All Time  PureWow PureWow entertainment entertainment The 92 Best Halloween Movies of All Time Spooky season has arrived By Rachel Bowie  Published Oct 30, 2023 Additional reporting by Nakeisha Campbell PureWow editors select every item that appears on this page,",
+            "The list is based on a comprehensive look at the Halloween genre by our sister site ET Online . The best horror movies , of course, made the list. And, yes, Halloween TV classics such as Its a Great Pumpkin, Charlie Brown were considered too."
+        ]
+    },
+    {
+        "query": "what is loan deferment?",
+        "predicted_answer": "Loan deferment is a temporary postponement of monthly loan payments. It allows you to temporarily stop making payments on your debt without the interest continuing to accrue. In other words, a deferment allows you to temporarily freeze your loan payments and avoid accruing additional interest.",
+        "ground_truth": "loan deferment allows you to take a break from making payments on your loans. what deferment looks like, though, can vary depending on the type of loan you have.",
+        "retrieved_chunk": [
+            "What is deferment  In the context of loans, deferment often refers to a pause on payments during which interest does not continue to accrue. In other words, a deferment allows you to temporarily stop making payments on your debt without the interest continuing to pile up. The word deferral is sometimes used in the same way. Taking this option is sometimes called deferring a loan. In the student loan and mortgage examples above, if you were granted a deferment of your loan payments, you would still owe the same amount 10,000 or 250,000 whenever you were able to resume payments. Your loan would neither grow nor shrinkit would be temporarily frozen. Sometimes, lenders use the word deferment in other ways. For example, its sometimes used to refer to an option that follows a forbearance , in which the skipped payments are set aside to be paid after the rest of the loan has been paid. Like forbearance , the word deferment has other, more general meanings outside of finance, but it usually involves the postponement of something. Our finances depend heavily on another set of terms worth discussing inflation vs. deflation.",
+            "Deferment If you have a loan, especially a student loan or a mortgage , there may come a time when you arent able to keep up with your payments. But there are options when it comes to repayment relief, including one called a forbearance and one called a deferment .",
+            "Quick summary The word forbearance commonly refers to a temporary pause on loan payments that usually involves the loan balance continuing to accrue interest. A deferment , on the other hand, typically involves a temporary pause on loan payments without interest continuing to accrue.",
+            "What is the difference between forbearance and deferment What is the difference between forbearance and deferment A loan deferment is a temporary postponement of monthly loan payments. For subsidized loans, accrued interest will automatically be paid by the Department of Education if the loan is deferred.",
+            "If this is the case, and you have a choice between deferment and forbearance , it obviously makes sense to choose deferment when all other terms are equal. However, the terms can be used differently by different lenders and for different types of loans."
+        ]
+    },
+    {
+        "query": "can you tell me the maximum price that dermtech's stock reached last week?",
+        "predicted_answer": "0.000001",
+        "ground_truth": "$1.35",
+        "retrieved_chunk": [
+            "000001 Min 0.000001 Max 0.000001 Change 31433.69  DermTech Inc Stock Price Forecast for 2025 September 2025 Open 0.000001 Close 0.000001 Min 0.000001 Max 0.",
+            "000000004 Max 0.00000233 Change 55959.89  DermTech Inc Stock Price Forecast for 2024 June 2024 Open 0.000000003 Close 0.000000000013 Min 0.000000000013 Max 0.",
+            "000000000013 Min 0.000000000013 Max 0.000000003 Change 23550.26  DermTech Inc Stock Price Forecast for 2024 July 2024 Open 0.000000000010 Close 0.000001 Min 0.000001 Max 0.",
+            "00000310 Max 0.00130 Change 41944.91  DermTech Inc Stock Price Forecast for 2024 May 2024 Open 0.00000233 Close 0.000000004 Min 0.000000004 Max 0.00000233 Change 55959.",
+            "000001 Min 0.000001 Max 0.000001 Change 23550.26  DermTech Inc Stock Price Forecast for 2027 March 2027 Open 0.000001 Close 0.000001 Min 0.000001 Max 0.000001 Change 55959."
+        ]
+    },
+    {
+        "query": "how many times has john mcenroe won the french open?",
+        "predicted_answer": "1 time.",
+        "ground_truth": "invalid question",
+        "retrieved_chunk": [
+            "John McEnroes tennis career A natural athlete in high school, McEnroe made a name for himself in the tennis world after graduation. He won the first of his 17 total Grand Slams at the French Open in 1977.",
+            "Davis Cup. With family taking center stage, McEnroe took a sabbatical in 1986. His return, however, continued to be plagued by misbehavior. In 1990, McEnroe was disqualified from the Australian Open for unsportsmanlike conduct. He continued to impress as a Davis Cup player, but by 1992, McEnroe sought a change. McEnroe embarked on a new career as a TV sports analyst covering the 1992 French Open. In 1999, the tennis star was inducted into the International Tennis Hall of Fame. John McEnroes Grand Slam wins With a total of 17 Grand Slam wins, McEnroes illustrious record involves victories in the singles and doubles categories. Singles McEnroe won a total of seven Grand Slam singles  Wimbledon in 1981, 1983, and 1984 as well as the US Open in 1979, 1980, 1981, and 1984. Doubles One mixeddouble and nine doubles tournaments were won by McEnroe . His first Grand Slam win was the mixed doubles match at the 1977 French Open.",
+            "His first Grand Slam win was the mixed doubles match at the 1977 French Open. McEnroes doubles wins at Wimbledon were all with Peter Fleming 1979, 1981, 1983, 1984, and 1992.",
+            "McEnroe defeated Borg at Wimbledon in 1981, for his first of three Wimbledon singles titles. He also won the Grand Prix Masters and the WCT Finals that year and was named AP male athlete of the year.",
+            "About Us Privacy Policy Terms of Service Web Accessibility Home Tennis Tennis How Many Tennis Grand Slams Did John McEnroe Win by Fareed Osborne Published on October 3,"
+        ]
+    },
+    {
+        "query": "did wawa dam play a part in 1990's operations?",
+        "predicted_answer": "Wawa Dam did not play a part in 1990's operations as it was abandoned in 1962.",
+        "ground_truth": "no",
+        "retrieved_chunk": [
+            "1. Wawa Dam Sitio Wawa, San Rafael, Rodriguez, Rizal Wawa Dam is a gravity dam built during 1909 over the Montalban Gorge. This was supposedly the only source of water for Metro Manila prior to the construction of Angat Dam.",
+            "The dam started operating during the American occupation in 1909 to supply the water demands of Manila, but it was eventually abandoned when the Angat watershed system got completed in 1962. Nevertheless, Wawa was still acknowledged as an Important Cultural Property by the National Museum in 2019.",
+            "In September 2022, the House Committee on Tourism and lawmakers declared Wawa Dam a tourist site. For this reason, it will help the local residents near the dam to have more opportunities and more income to add to their daily lives.",
+            "Upper Wawa Dam to start operations by end of 2025  Philippine News Agency GOV PH Open GOV.PH Menu Home About Subscription Transparency Contact Search Perform Search Home About Subscription Transparency Contact Search Perform Search Open GOV.",
+            "Wawa Dam Home About Privacy Policy Contact Hike To Mountains Your Guide to Hiking in the Philippines Home About Categories Mountains Waterfalls Travel Guide Privacy Policy Contact Home About Categories Mountains Waterfalls Travel Guide Privacy Policy Contact Travel Guide Wawa Dam October 30, 2022  Background Wawa Dam is a manmade dam and its one of the famous tourist attractions in the province of Rizal. It is exactly situated at the Wawa Gorge along the Sierra Madre mountain range between the two prominent mountains Mt. Pamitinan and Mt. Binacayan. Wawa Dam has a height of 13 meters or 43 feet. It has a length of 85 meters and it is surrounded by rock walls and marble boulders. Moreover, it comes out like a gateway to the sky and it is just a onehour drive from Metro Manila. According to its past history, Wawa Dam was constructed on top of the Marikina River to supply water to Metro Manila during the American colonial period in the Philippines in the year 1904. It was completely finished and began operating in the year 1909. Wawa Dam originated from the Dumagat word wawa which means entrance."
+        ]
+    },
+    {
+        "query": "what is treasury yield?",
+        "predicted_answer": "Treasury yield is the effective yearly interest rate paid by the U.S. government to a bondholder. It is calculated by taking the difference between the current market price of a Treasury bond and the face value of the bond, dividing that by the bond's maturity length, and then multiplying by 100 to get a percentage. Treasury yields are important because they indicate the level of demand for Treasury bonds, which can affect the market price of Treasury bonds and, in turn, the interest rate that investors demand for holding them.",
+        "ground_truth": "treasury yield is the effective annual interest rate that the u.s. government pays on one of its debt obligations, expressed as a percentage.",
+        "retrieved_chunk": [
+            "Social Security Medicare Baby Boomers Aging Best Places to Retire Retirement Readiness Calculator Other Financial Advisors Personal Finance Auto Loans Small Business Loans Installment Loans Online Loans Debt Settlement Loans Real Estate Careers Law Sign In Investing Money Home Investing Money Home Treasury Yield Definition Table of Contents What Are Treasury Yields How Do Treasury Yields Work Yield",
+            "A Treasury bond is a loan that you make to the government. What does a high Treasury yield mean Higher longterm yields mean that demand for Treasury bonds is decreasing, which indicates that investors are looking elsewhere for better returns.",
+            "7, 2023  By Adam Carpenter  Updated Dec. 7, 2023 Save ...more Table of Contents What Are Treasury Yields How Do Treasury Yields Work Yield Curve More What Are Treasury Yields A Treasury yield refers to the effective yearly interest rate the U.S.",
+            "An inversion does not always guarantee a recession, however. Are Treasury yields and Treasury bonds the same thing No. A Treasury yield is the effective annual interest rate paid by the U.S. government to a bondholder. A Treasury bond is a loan that you make to the government.",
+            "Its the action in the secondary market that determines the yield. This is important to note because its this rate that people refer to when theyre talking about Treasuries."
+        ]
+    },
+    {
+        "query": "how many times has lady gaga won a grammy award for album of the year?",
+        "predicted_answer": "1",
+        "ground_truth": "lady gaga has never won a grammy award for album of the year, though she has been nominated four times.",
+        "retrieved_chunk": [
+            "Heres the full list of Grammys winners . Early wins for Carlile and Lady Gaga Image Brandi Carlile accepting the award for best Americana album for By the Way, I Forgive You.",
+            "Barbra Streisand 19641967 11 and Kendrick Lamar 20162019 also received nominations in four consecutive years while Lady Gaga 20102012 was nominated in three consecutive years.",
+            "Weve compiled a list of the top GRAMMY winners of all time. Beyoncé, 32 Beyoncé made history at the 2023 GRAMMYs by becoming the artist with the most GRAMMY wins  ever  when she won the GRAMMY for Best DanceElectronic Music Album for her 2022 album, Renaissance .",
+            "Grammy Award for Album of the Year  Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Donate Contribute Help Learn to edit Community portal Recent changes Upload file Search Search Create account Log in Personal tools Create account Log in Pages for logged out editors learn",
+            "10 Christopher Cross and Billie Eilish are the only artists to receive Grammys for Album of the Year as well as Record of the Year , Song of the Year , and Best New Artist , each winning all four general field categories in a single, ceremony year."
+        ]
+    },
+    {
+        "query": "what is the country of origin for frank sinatra?",
+        "predicted_answer": "1. United States",
+        "ground_truth": "us",
+        "retrieved_chunk": [
+            "72 m Mini Bio Frank Sinatra was born in Hoboken, New Jersey, to Italian immigrants Natalina Della Garaventa, from Northern Italy, and Saverio Antonino Martino Sinatra, a Sicilian boxer, fireman, and bar owner.",
+            "c. 191819 Francis Albert Sinatra was born December 12, 1915, in Hoboken , New Jersey , and lived with his parents, who had emigrated from the Kingdom of Italy .",
+            "1 2 Family background and early years  edit  Hoboken, New Jersey , early 20th century Francis Albert Sinatra was born on December 12, 1915, in an upstairs tenement at 415 Monroe Street a in Hoboken , New Jersey ,",
+            "He is considered by many to have been the greatest American singer of 20thcentury popular music . When was Frank Sinatra born American singer and actor Frank Sinatra was born on December 12, 1915, in Hoboken , New Jersey.",
+            "EN Fully supported English United States Partially supported Français Canada Français France Deutsch Deutschland हद भरत Italiano Italia Português Brasil Español España Español México Use app Back Biography Awards Trivia FAQ IMDbPro All topics Biography Frank Sinatra Jump to Overview 5 Mini Bio 1 Family 3"
+        ]
+    },
+    {
+        "query": "which day did eqix last distribute dividends to its shareholders?",
+        "predicted_answer": "2022-02-23",
+        "ground_truth": "2024-02-27",
+        "retrieved_chunk": [
+            "982017 Friday, 9152017 Monday, 9182017 Tuesday, 1032017 On September 8, 2017, Company XYZ declares a dividend payable on October 3, 2017 to its shareholders.",
+            "Company XYZ declares a dividend payable on October 3, 2017 to its shareholders. XYZ also announces that shareholders of record on the companys books on or before September 18, 2017 are entitled to the dividend.",
+            "In the above example, the exdividend date for a stock thats paying a dividend equal to 25 or more of its value, is October 4, 2017. Sometimes a company pays a dividend in the form of stock rather than cash.",
+            "4, XYZ Company declares a dividend for its shareholders. The companys board then announces a record date of Friday, Feb. 18. Shareholders of record on that date will be eligible to receive the dividend.",
+            "B Dividend Date  History Follow 119 Followers Portfolio Dividend Data Last ExDividend Date Feb 23, 2024 Payment date Mar 08, 2024 Dividend Amount Per Share 0.07 Quarterly Dividend Yield 2.16 Sector Financial Sector Average 2."
+        ]
+    },
+    {
+        "query": "when was the first screening of is anybody there??",
+        "predicted_answer": "1969.",
+        "ground_truth": "4/17/09",
+        "retrieved_chunk": [
+            "104 The world premiere of Maleficent took place at the El Capitan Theatre in Hollywood on May 28, 2014.",
+            "MOVIES ON THE BIG SCREEN WHOS ON FIRST ANYBODY by Michael Schlesinger Whats new at the American Cinematheques Egyptian and Aero Theaters Thursday, August 13, 2015 WHOS ON FIRST ANYBODY by Michael Schlesinger A long,",
+            "Schell and Spencer Tracy Becket 1964  Richard Burton and Peter OToole Midnight Cowboy 1969  Dustin Hoffman and Jon Voight Sleuth 1972  Michael Caine and Laurence Olivier Network 1976  Peter Finch and William Holden The Dresser 1983  Tom Courtenay",
+            "25 The next days saw them study for UCLs final examinations. 26 On 27 June 1999, Coldplay made their first appearance at the Glastonbury Festival in the New Bands Tent.",
+            "108 In September 2020, the film returned to theaters in the United Kingdom following their reopening from closure due to the COVID19 pandemic ."
+        ]
+    },
+    {
+        "query": "what was henry rollins's age when he/she made an appearance in henry rollins: henry rollins goes to london?",
+        "predicted_answer": "33",
+        "ground_truth": "33",
+        "retrieved_chunk": [
+            "Rollins is now single and has made the decision not to start a family. Henry Rollins Age, Height, and Weight Henry Rollins was born on February 13, 1961, and is 63 years old 2024.",
+            "Quick Facts Celebrated Name Henry Rollins Gender Male Age 63 years old Birth Date 13 February 1961 Birth Place Washington, D.C. United States Nationality American Height 1.",
+            ", U.S. age 63 Show more Awards And Honors Grammy Award 1994 Show more Notable Works Get in the Van On the Road with Black Flag Show more See all related content  Henry Rollins born February 13, 1961, Washington, D.C. , U.S.",
+            "Henry Rollins Goes to London 1995 You Saw Me Up There 1998 Up for It 2001 Live at Luna Park 2004 Shock  Awe The Tour",
+            "com Musical artist Henry Lawrence Garfield born February 13, 1961, known professionally as Henry Rollins , is an American singer, writer, spoken word artist, actor, comedian, and presenter."
+        ]
+    },
+    {
+        "query": "of the six avengers movies, which one was rated the lowest?",
+        "predicted_answer": "Eternals",
+        "ground_truth": "invalid question",
+        "retrieved_chunk": [
+            "The Dark World , however, served as the major platform in presenting the Infinity Saga. Eternals  48 Advertisement Currently the lowest rated movie in the entire MCU library, Eternals received the first rotten rating. The film is considered a risky move.",
+            "The film is considered a risky move. Other MCU movies which did not feature the Original Six such as Guardians of the Galaxy , Black Panther , and AntMan , successfully made it to the top. This low rating is attributed to the initial criticisms that the movie received even before it was released in theaters.",
+            "Chris Evans , Mark Ruffalo , Chris Hemsworth Directed By Anthony Russo , Joe Russo 3 Iron Man 2008 94 3 Adjusted Score 105610 Critics Consensus Powered by Robert Downey Jr.s vibrant charm,",
+            "3 , before the critical split of The Marvels . Now, were ranking all of the Marvel Cinematic Universe movies,",
+            "6 Lowest Rated MCU Movies Based On Rotten Tomatoes Facebook Twitter Insta LinkedIn YT Menu Franchises Marvel DC Star Wars Netflix Disney Pixar Horror Wizarding World James Bond Jurassic World MonsterVerse Star Trek Fast  Furious WWE Movies TV Gaming Xbox PlayStation Nintendo PC Celebrities Anime Tech Exclusives Trailers More Reviews Lists Podcasts Cinema Stubs Search Search for Search Menu Search Search for Search You are here Home Disney 6 Lowest Rated MCU Movies Based On Rotten Tomatoes 6 Lowest Rated MCU Movies Based On Rotten Tomatoes Written by Ariane Published November 28, 2021, 558 am Follow Comments Share Featured Video The Marvel Cinematic Universe MCU is known for its topgrossing collection of superhero films. Each time a new movie comes out, tickets are always sold out and theaters swarmed with hyped fans all over the world. Advertisement While MCU movies are toprated by fans, some critics and reviewers take their time to give ratings to movies based on certain criteria. Rotten Tomatoes has given ratings to every Marvel film and lets see which one hit the bottom, literally. Advertisement Thor  77 This is Thor s introduction in the MCU and Asgards first exhibit of its wonderful realms."
+        ]
+    },
+    {
+        "query": "who has had more number one hits on the us billboard hot 100 chart, michael jackson or elvis presley?",
+        "predicted_answer": "MICHAEL JACKSON",
+        "ground_truth": "elvis presley has had more number one hits on the us billboard hot 100 chart than michael jackson, with 18 number one hits compared to jackson's 13.",
+        "retrieved_chunk": [
+            "Of those artists, only 16 have charted at least 100 total songs. Elvis Presley, whose career predates the Hot 100s launch , became the first artist to tally 100 total hits.",
+            "Presley, whos notably absent from the list below, scored seven No. 1s in the Hot 100 era. The start of Presleys career predated the Hot 100 , which launched on Aug.",
+            "It was tied in 2011 by Katy Perry with Teenage Dream. Jacksons first charttopper was Ben in 1972 when he was 14 years old. Dont Stop Til You Get Enough and Rock with You both took the top spot in 1979, followed by Billie Jean,",
+            "Advertisement 4 tie. Michael Jackson topped the chart 13 times. Michael Jackson.",
+            "Advertisement 4 tie. Michael Jackson topped the chart 13 times. Michael Jackson. Kevin MazurWireImage via Getty Images Michael Jackson began appearing on the charts as a child with The Jackson 5, but after he struck out on his own, the socalled King of Pop racked up more hits than any solo artist at the time."
+        ]
+    },
+    {
+        "query": "this week, which company has had more shares traded, gty or  cyd?",
+        "predicted_answer": "I'm sorry, but I am unable to answer your question as the information you provided does not include any specific data on the number of shares traded for either GTY or CyD. The information provided only includes details about the companies and their leadership.",
+        "ground_truth": "gty",
+        "retrieved_chunk": [
+            "fka GTY Govtech, Inc. GTY Technology Holdings Inc. is a leading public sector SaaS company which offers a cloudbased suite of solutions for North American state and local governments. For more information, please visit www.gtytechnology.com .",
+            "Company Contacts Carter Glatt Senior Vice President, Corporate Development, GTY email protected 702 9452898 About GTY Technology Holdings Inc. fka GTY Govtech, Inc. GTY Technology Holdings Inc.",
+            "19, 2019 PRNewswire  GTY Technology Holdings Inc. Nasdaq GTYH  GTY or the Company, a publicly traded special purpose acquisition company, today announced the closing of its previously announced business combination between the Company and six companies that are leading the digital transformation of the public sector market, including Bonfire Interactive Ltd.",
+            "19, 2019 PRNewswire  GTY Technology Holdings Inc.",
+            "fka GTY Govtech, Inc. in connection with the closing. GTY was formed in November 2016 by William D. Green , Joseph M. Tucci and Harry L. You with the mandate to seek out the most compelling technology solutions."
+        ]
+    },
+    {
+        "query": "what are the names of george and amal clooney’s twins?",
+        "predicted_answer": "George and Amal Clooney's twins are named Ella and Alexander.",
+        "ground_truth": "ella and alexander clooney",
+        "retrieved_chunk": [
+            "Use Skip to Content Fashion Beauty Celebrity Culture The Edit Subscribe sign in Celebrity Celebrity News George and Amal Clooneys Twins Have Totally Different Personalities George and Amal Clooneys Twins Have Totally Different Personalities One is very smart and the other is a prankster, the actor and director shared in a new interview.",
+            "There is nothing I can do to help, but make tea and stuff. June 2017 Amal and George Clooney welcome twins On June 6, the couple became firsttime parents to twins , son Alexander and daughter Ella.",
+            "Amal Clooney Jordan StraussInvisionAP. Design Ashley BrittonSheKnows. Every Single Celebrity Parent Who Welcomed Twins 79 Images You know what they say Babies dont keep It seems like yesterday that the world learned George and Amal Clooney were expecting twins , and now their tiny dynamic duo is turning five.",
+            "Matt Damon Says George and Amal Clooney Will Be Great Parents  . ABC News .  Leonard, Elizabeth Juneau, Jen 6 June 2017. A Boy A Girl George and Amal Clooney Welcome Twins . People .",
+            "4, 2023 in London. Gareth Cattermole  Getty Images George and Amal Clooney have been married since 2014 and are parents to twins Ella and Alexander."
+        ]
+    },
+    {
+        "query": "which film earned acclaim for its visual effects performance at the oscars in 2016?",
+        "predicted_answer": "The film that earned acclaim for its visual effects performance at the Oscars in 2016 is \"Arrival.\"",
+        "ground_truth": "ex machina",
+        "retrieved_chunk": [
+            "From the vivid textures of the Millennium Falcon, to the droid lighting and the immersive blast fire in the opening sequence, The Force Awakens was worthy of its Best Visual Effects nomination at the 88th Academy Awards. Read more about the VFX tools used in this film in our case study.",
+            "Visual Effects Oscar by lucaslmota  created  22 Mar 2011  updated  26 Apr 2021  Public Refine See titles to watch",
+            "Fury Road 2015 Sylvain Bellemare  Arrival 2016 Richard King and Alex Gibson  Dunkirk 2017 John Warhurst and Nina Hartstone  Bohemian Rhapsody 2018 Donald Sylvester  Ford v Ferrari 2019 v t e Academy Award for Best Visual Effects",
+            "Forum Special pages Polls in Academy Awards by category Best Visual Effects Sign in to edit View history Talk 0 Dominic Tuohy , Guillaume Rocheron , Greg Butler , 2019 winners The Academy Award for Best Visual Effects is an Academy Award that recognizes the finest or most outstanding visual effects in film.",
+            "Partially supported Français Canada Français France Deutsch Deutschland हद भरत Italiano Italia Português Brasil Español España Español México Use app Copy from this list Export Report this list Winners of Best Visual Effects Oscar by lucaslmota  created  22 Mar 2011  updated"
+        ]
+    },
+    {
+        "query": "did cádiz emerge victorious in yesterday's game?",
+        "predicted_answer": "I'm sorry, but I don't have information about yesterday's game. Please provide more context or specify which game you are referring to.",
+        "ground_truth": "invalid question",
+        "retrieved_chunk": [
+            "16 clean sheets in 24 league games in 2023 Cadiz scored just 0.58 goals per away game last term The visitors are winless across their last five trips Can Barca bounce back Last weekends 00 draw with Getafe was a dire showing for Barca,",
+            "Away woes to hit visitors Cadiz have not won in any of their last five La Liga away matches and last season they averaged just 0.58 goals per game on the road.",
+            "Cádiz 𝗢𝗡 𝗧𝗢𝗨𝗥.",
+            "They arrive as the least favorites to win this match, however they could surprise and win. October 27, 2023 1157 PM ET 5 months ago Players to follow from Cadiz The next three players are considered key to Cadizs offensive attack and it is likely that any of them can score in the match against Sevilla.",
+            "October 28, 2023 517 PM ET 5 months ago 64 Cádiz maintains pressure throughout the field in search of a defensive error."
+        ]
+    },
+    {
+        "query": "what soul train awards has usher won in year 2023",
+        "predicted_answer": "3",
+        "ground_truth": "usher won three soul train awards in 2023: best r&b/soul male artist, best collaboration, and the soul train certified award.",
+        "retrieved_chunk": [
+            "this article on Reddit Share this article on Linkedin Share this article on Whatsapp Share this article on Email Print this article Share this article on Comment Share this article on Tumblr SZA Courtesy of RCA Records SZA , Usher and Summer Walker are the top nominees for the 2023 Soul Train Awards, with nine nods each.",
+            "SZA among top nominees Check full list here SECTIONS 2023 Soul Train Awards Usher, SZA among top nominees Check full list here The Feed Last Updated Nov 02, 2023,",
+            "We are proud of this years list of esteemed nominees and look to deliver an unforgettable night of Soul with our new location, performances, and show moments. Summer Walker, SZA, and Usher lead Soul Train Awards 2023 nominations with nine outstanding nods, marking a historic threeway tie.",
+            "As the 2023 Soul Train Awards approach, excitement has increased with the announcement of this years top nominees. SZA , Usher , and Summer Walker are leading the nominations, each securing nine nominations. BET is gearing up to deliver an award ceremony that doubles as a Hollywood party.",
+            "2 on the Billboard Hot 100 . Usher was runnerup at the Soul Train Awards with three awards, followed by Victoria Monét with two. Keke Palmer hosted the show, which was billed as the soulful house party of the year."
+        ]
+    },
+    {
+        "query": "the 1984 maze game devil world has an amazing soundtrack. who composed it?",
+        "predicted_answer": "1. Shigeru Miyamoto or 2. Takashi Tezuka or 3. Nintendo. Unfortunately, there is no information available about the composer of the soundtrack for Devil World.",
+        "ground_truth": "koji kondo akito nakatsuka",
+        "retrieved_chunk": [
+            "Everybody do the Shift Devil World is a Maze Game developed by Nintendo for the Nintendo Entertainment System . It was one of the many simple games created for the console in its early years, and was the first game designed by the partnership of Shigeru Miyamoto and Takashi Tezuka that would go on to create Super Mario Bros.",
+            "Today Im going to talk about another Famicom game Devil World. Developed and published by Nintendo, Devil World was released for the Famicom in 1984.",
+            "Devil World is a maze game similar to PacMan.",
+            "Devil World is a maze game similar to PacMan. I wont talk about the graphics and music too much because the former is just what youd expect from an early NES game especially if youve played Super Mario Bros.. The music is almost nonexistent, with only a couple of short jingles and sound effects.",
+            "Timeline WMG YMMV Everybody do the Shift Devil World is a Maze Game developed by Nintendo for the Nintendo Entertainment System ."
+        ]
+    },
+    {
+        "query": "how much did twitter stock rise since elon musk bought them in 2016",
+        "predicted_answer": "Since Elon Musk bought Twitter in 2016, the stock price has risen by as much as 27%.",
+        "ground_truth": "invalid question",
+        "retrieved_chunk": [
+            "Elon Musk acquires Twitter for roughly 44 billion . The Washington Post . ISSN 01908286 . Archived from the original on April 25, 2022 . Retrieved April 26, 2022 .",
+            "Business Insider . Archived from the original on January 22, 2016 . Retrieved April 25, 2022 .  Imbert, Fred April 4, 2022. Twitter shares close up 27 after Elon Musk takes 9 stake in social media company .",
+            "7 Early developments  edit  Musk began purchasing Twitter stock on January 31, 2022.",
+            "9 Following the announcement, Twitters stock experienced its largest intraday surge since the companys initial public offering IPO in 2013, rising by as much as 27 percent. 10 The next day, Twitter invited Musk to join the companys board, 11 which Musk accepted.",
+            "Twitter shares close up 27 after Elon Musk takes 9 stake in social media company . CNBC . Archived from the original on April 4, 2022 . Retrieved April 25, 2022 ."
+        ]
+    },
+    {
+        "query": "who was the first actress to play the role of a female superhero in a live-action movie?",
+        "predicted_answer": "The first actress to play the role of a female superhero in a live-action movie was Michelle Yeoh in the movie \"Charlie's Angels\" in 2001.",
+        "ground_truth": "lynda carter was the first actress to play the role of a female superhero in a live-action movie, in the 1974 film wonder woman, directed by vincent mceveety.",
+        "retrieved_chunk": [
+            "The Big Picture Captain Marvel was the first femaleled superhero movie in the MCU, arriving late but still achieving immense box office success and paving the way for the future of the franchise.",
+            "A montage of actresses who have played female action heroes. From top left Michelle Yeoh , Uma Thurman , Tia Carrere , Linda Hamilton , Angelina Jolie , Halle Berry , Sigourney Weaver , and Lucy Liu .",
+            "The MCU certainly had its share of interesting female characters Scarlett Johansson s Black Widow chief among them but a woman had yet to lead a superhero movie of her own.",
+            "Note We love Xena and Buffy as much as anyone, but for this list weve stuck solely to the ladies who thrilled us on the big screen. Here is our ranking of the 21 greatest female action heroes in cinema history . Beware of some spoilers.",
+            "Batgirl on the original Batman television series  was probably TVs first femme action hero. She even rode a motorcycle to work and did her own stunts, garnering more than a few lesbian fans."
+        ]
+    },
+    {
+        "query": "what was galmed pharmaceuticals's closing price on the day that saw the most trading activity last week?",
+        "predicted_answer": "0.39",
+        "ground_truth": "$0.38",
+        "retrieved_chunk": [
+            "00 to 4.08 July 14, 2023  marketwatch.com Galmed Pharma Shares Drop 30 After Public Offering Prices July 14, 2023  seekingalpha.com Galmed shares slump on pricing discounted stock and warrants offering July 14, 2023  finance.yahoo.com Galmed Pharmaceuticals Announces Pricing of 7 Million Public Offering July 13, 2023  investorplace.com Why Is Galmed Pharmaceuticals GLMD Stock Moving Today July 10, 2023  finance.yahoo.com Galmed to employ OnKais disruptive Artificial Intelligence AI in its Planned Phase 2a Clinical Trial in PSC July 3, 2023  bizjournals.com Madrigal begins process seeking OK for multibilliondollar  yet elusive  NASH drug June 3, 2023  benzinga.com Galmed Pharmaceuticals Stock NASDAQGLMD, Insider Trading Activity June 1, 2023  finanznachrichten.de Galmed Pharmaceuticals Ltd.",
+            "NASDAQGLMD Galmed Pharmaceuticals GLMD Stock Price, News  Analysis 0.39 0.01 1.67 As of 1003 AM ET Add Compare Share Share Todays Range 0.38  0.39 50Day Range 0.34  0.",
+            "Galmed Pharmaceuticals GLMD Stock Price, News  Analysis Skip to main content SP 500 5,065.54 0.25 DOW 38,830.36 0.36 QQQ 435.20 0.55 AAPL 181.78 0.",
+            "2023  nasdaq.com Galmed Pharmaceuticals GLMD Price Target Increased by 300.00 to 4.08 July 14,",
+            "2024  americanbankingnews.com Galmed Pharmaceuticals NASDAQGLMD Now Covered by Analysts at StockNews.com February 20, 2024  americanbankingnews.com Galmed Pharmaceuticals NASDAQGLMD Stock Crosses Below 50Day Moving Average of 0."
+        ]
+    },
+    {
+        "query": "what is the revenue of bodyarmor's parent company?",
+        "predicted_answer": "1.4 billion",
+        "ground_truth": "$45.75 billion",
+        "retrieved_chunk": [
+            "Brent Hastie How much revenue does BODYARMOR generate BODYARMOR generates 1.4B in revenue How much funding does BODYARMOR have BODYARMOR has historically raised 54.5M in funding Where is BODYARMORs headquarters BODYARMORs headquarters is in Whitestone New York,",
+            "5M Investors Count 14 Deal Terms 4 Funding, Valuation  Revenue 9 Fundings BodyArmor has raised 354.5M over 9 rounds . BodyArmors latest funding round was a Acquired for 5,600M on November 1, 2021 .",
+            "BodyArmors valuation in August 2018 was 2,000M .",
+            "BodyArmors 2017 revenue was 185M . BodyArmors most recent revenue is from 2014 . Sign up for a free demo to see revenue data from 2018, 2014 and more.",
+            "New York 11357 7183577402 Driving Directions  BODYARMOR Summary ABOUT Overview BODYARMOR is a New Yorkbased food processing company that manufactures and supplies sports drink products for the commercial market. BODYARMOR was founded in 2011."
+        ]
+    },
+    {
+        "query": "which single was more successful, man in the mirror or billie jean?",
+        "predicted_answer": "Billie Jean was more successful as a single than Man in the Mirror. Billie Jean became one of the best-selling singles in 1983 and was a hit worldwide. It was followed by other successful singles such as Beat It, Say Say Say, and I Just Cant Stop Loving You. On the other hand, Man in the Mirror did not achieve the same level of success as Billie Jean and was not a hit single.",
+        "ground_truth": "billie jean",
+        "retrieved_chunk": [
+            "Billie Jean Single by Michael Jackson Single Demo 2008 Remix General information Released January 2, 1983 Single February 8,",
+            "Awards and nominations   Billie Jean became one of the best selling singles in 1983 and even worldwide.",
+            "followed by Billie Jean, Beat It, and Say Say Say in 1983 I Just Cant Stop Loving You, Bad, and The Way You Make Me Feel in 1987 Man in the Mirror and Dirty Diana in 1988 and Black or White in 1993.",
+            "Instead, Man In The Mirror came from Siedah Garrett and her writing partner Glen Ballard. Garrett didnt have a lot of experience as a songwriter she was more of a backup singer and vocal arranger, and shed been Jacksons duet partner on the Bad single  I Just Cant Stop Loving You .",
+            "All this began with the 1983 hit single Billie Jean. Though it may not sound like it today, Billie Jean is one of the most revolutionary songs in the history of popular music."
+        ]
+    },
+    {
+        "query": "from 1990 to 2000, how many songs did keith sweat release?",
+        "predicted_answer": "5 songs",
+        "ground_truth": "8",
+        "retrieved_chunk": [
+            "10 Discography  edit  Main article Keith Sweat discography Studio albums Make It Last Forever 1987 Ill Give All My Love to You 1990 Keep It Comin 1991 Get Up on It 1994 Keith Sweat 1996 Still in the Game 1998 Didnt See Me Coming",
+            "A few months after opening his nightclub, Sweat released his fifth album entitled Keith Sweat. Two songs on the album,  Twisted  and  Nobody,  climbed into the top five on the pop charts.",
+            "1994 Keith Sweat 1996 Still in the Game 1998 Didnt See Me Coming 2000 Rebirth 2002 A Christmas of Love 2007 Just Me 2008 Ridin Solo 2010 Til the Morning 2011 Dress to Impress 2016 Playing for Keeps 2018",
+            "1996  Nobody  Released September 17, 1996 Just a Touch Released 1997  Come with Me  Released 1997 Keith Sweat is the fifth studio album by the American singer Keith Sweat .",
+            "Keith Sweat discography  Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Donate Contribute Help Learn to edit Community portal Recent changes Upload file Search Search Create account Log in Personal tools Create account Log in Pages for logged out editors learn more Contributions Talk Contents move to sidebar hide Top 1 Albums Toggle Albums subsection 1.1 Studio albums 1.2 Live albums 1.3 Compilation albums 2 Singles Toggle Singles subsection 2.1 As a lead artist 3 Production discography 4 References Toggle the table of contents Keith Sweat discography Add languages Add links Article Talk English Read Edit View history Tools Tools move to sidebar hide Actions Read Edit View history General What links here Related changes Upload file Special pages Permanent link Page information Cite this page Get shortened URL Download QR code Wikidata item Printexport Download as PDF Printable version From Wikipedia, the free encyclopedia The following is the discography of American RB  soul singer Keith Sweat . Albums  edit  Studio albums  edit  Year Album details Peak chart positions Certifications US 1 US RB 1 AUS 2 3 4 5 6 7 UK 8 1987 Make It Last Forever Released November 24,"
+        ]
+    },
+    {
+        "query": "does a rhino or a grizzly bear weigh more?",
+        "predicted_answer": "A rhino weighs more than a grizzly bear.",
+        "ground_truth": "rhinos weigh more, reaching up to 8,000 pounds. while grizzly bears weigh up to 900 pounds.",
+        "retrieved_chunk": [
+            "Grizzly bears can weigh 900 pounds, while rhinos can weigh up to 8,000 pounds So through sheer force alone, the rhino could easily defeat a grizzly bear.",
+            "Rhino Size The rhinoceros weighs more than the grizzly bear. iStock.comEcoPic Rhinos are much larger than grizzly bears, even though the latter are big in their own right.",
+            "When it comes to weight, rhinos also have the advantage. They can weigh anywhere between 1,500 to 6,000 pounds, while bears typically weigh between 200 to 1,500 pounds. This significant weight difference gives rhinos a physical advantage in terms of sheer force and impact.",
+            "CC BY 2.0 . 4. Weight When comparing the weight of rhinos and bears, it is evident that rhinos generally outweigh bears due to their larger body mass. Rhinos can weigh anywhere from 1,000 to 6,000 pounds, depending on the species.",
+            "In terms of weight, rhinos also outweigh bears. Rhinos can weigh anywhere between 1,500 to 6,000 pounds, depending on the species. Bears, on the other hand, have a weight range of 200 to 1,500 pounds."
+        ]
+    },
+    {
+        "query": "what was clermont foot's score last week?",
+        "predicted_answer": "Last week, Clermont Foot had 3 matches. Their score in these matches was 3 goals scored and 1 goal against them.",
+        "ground_truth": "2",
+        "retrieved_chunk": [
+            "1 Standings  Clermont Foot Statistics home away total matches played 60 66 126 Wins 19 21 40 Draws 14 14 28 Losses 27 31 58 Goals for 62 80 142 Goals against 95 105 200 clean sheets 14 17",
+            "Foot 1  1 Nov 25 L Clermont Foot 0  3 Lens 0  3 Nov 12 W Clermont Foot 1  0 Lorient 1  0 Nov 5 D Strasbourg 0  0 Clermont Foot 0  0 Oct",
+            "Pred 1705 1400 Lorient  Clermont Foot Details H2H Pred Show more matches Clermont Foot Predictions Clermont Foot  Toulouse 32 26 42",
+            "Clermont have been able to find space in behind the full backs. 48th min PSG looked to be in full control of this match after scoring two goals in the first 19 minutes, but Clermont have found a foothold in the contest and will have ambitions of completing their comeback in this second half.",
+            "Clermont Foot live score  Today match results  Next match fixtures  Yesterday match score  livescores.biz Add English Français Menu Rating Bookmakers click here Open Close Football Scores  Leagues  Predictions Basketball Scores Hockey Scores Esport Cricket Scores Tennis Scores Volleyball Scores My Games Format Odds Decimal 1."
+        ]
+    },
+    {
+        "query": "what was the total box office earnings for die hard 2 worldwide?",
+        "predicted_answer": "1990",
+        "ground_truth": "240031094",
+        "retrieved_chunk": [
+            "July 2224. Die Hard ended its run with 83 million approx. 162.5 million today in North America, according to figures found at Boxofficemojo.com.",
+            "Retrieved May 1, 2020 . ...Die Hard 2 1990, which also ran over budget and wound up costing a reported 70 million.  Die Hard With A Vengeance 1995 . Box Office Mojo .",
+            "122 million today. A Good Day to Die Hard cost 92 million. To match the original Die Hard s budgettoboxoffice ratio, A Good Day to Die Hard would have to gross 273 million at the North American box office.",
+            "Retrieved October 9, 2011 .  Die Hard 1988 . Box Office Mojo .",
+            "Box office performance  edit  Film Release date Box office gross Box office ranking Budget Refs North America Other territories Worldwide All time North America All time worldwide Die Hard July 15, 1988 83,844,093 57,759,104 141,603,197 734  28,"
+        ]
+    },
+    {
+        "query": "who won more rings, jordan or lebron?",
+        "predicted_answer": "LeBron won more rings, 4 to 3.",
+        "ground_truth": "jordan",
+        "retrieved_chunk": [
+            "Jordan absolutely holds the advantage of playing with less talent around him than LeBron did. Cavaliers Championship Ring Jordans 6 Rings vs. LeBrons 4 Michael Jordan has six rings in six attempts. Thats clearly better than LeBrons four rings in ten attempts, right Not necessarily.",
+            "Jordan won more games and thus has a greater overall record in the Finals. On an individual performance level, however, LeBron excels in more categories than Jordan in both their regularseason careers and Finals.",
+            "LeBron steps up in the clutch far more strongly than Jordan did. When facing a chance to eliminate an opponent, Jordan was 3010, or won 75 of the time.",
+            "Thats clearly better than LeBrons four rings in ten attempts, right Not necessarily. While Jordan does have a better Finals record and more rings, it doesnt make him automatically better in the postseason.",
+            "5 3 LeBron 715 46.7 5 Who Is More Clutch, LeBron or Jordan Crying Jordan Meme Did Jordan Play in a Weak League Michael Jordan won his six rings in 1991, 1992, 1993, 1996, 1997,"
+        ]
+    },
+    {
+        "query": "is dead innocent the original title of that movie?",
+        "predicted_answer": "Yes, \"Dead Innocent\" was the original title of the movie.",
+        "ground_truth": "true",
+        "retrieved_chunk": [
+            "Trivia IMDbPro All topics Dead Innocent 1997 R 1h 31m IMDb RATING 5.",
+            "Dead Innocent 1997  IMDb Menu Movies Release Calendar Top 250 Movies Most Popular Movies Browse Movies by Genre Top Box Office Showtimes  Tickets Movie News India Movie Spotlight TV Shows Whats on TV  Streaming Top 250 TV Shows Most Popular TV Shows Browse TV Shows by Genre TV News Watch What to Watch Latest",
+            "EN Fully supported English United States Partially supported Français Canada Français France Deutsch Deutschland हद भरत Italiano Italia Português Brasil Español España Español México Use app Cast  crew User reviews Trivia IMDbPro All topics Dead Innocent 1997 R 1h 31m IMDb",
+            "to this page Suggest an edit or add missing content Top Gap By what name was Dead Innocent 1997 officially released in Canada in English Answer See more gaps Learn more about contributing Edit page More to explore List Staff Picks What to Watch in March See the list Photos Women in Science Fiction See the gallery List Hillarys",
+            "Sam Raimi Admits He Didnt Initially Like the Title The Evil Dead for His Horror Classic  Bloody Disgusting Movies TV Reviews Editorials Videos Video Games BLOODY FM STORE Connect with us Bloody Disgusting Sam Raimi Admits He Didnt Initially Like the Title The Evil Dead for His Horror"
+        ]
+    },
+    {
+        "query": "which soccer players have scored at least 50 goals in a single season?",
+        "predicted_answer": "Cristiano Ronaldo and Lionel Messi are the only players in the world who have scored at least 50 goals in a single season.",
+        "ground_truth": "dixie dean, josef bican, ferenc deak, pele, gerd muller, lionel messi, cristiano ronaldo, and luis suarez have all scored at least 50 goals in a single season.",
+        "retrieved_chunk": [
+            "List of mens footballers with 50 or more international goals  Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Donate Contribute Help Learn to edit Community portal Recent changes Upload file Search Search Create account Log in Personal tools Create account Log in Pages for",
+            "The first player to score 50 international goals was Imre Schlosser of Hungary. 8 He achieved the feat when he scored a brace two goals in a 62 victory against Austria on 3 June 1917.",
+            "During the 195051 campaign, the Basque native scored 38 league goals and 46 in total across all competitions. Filippo Inzaghi 200203 2 of 50 Filippo Inzaghi had a host of amazing seasons during his long and successful career.",
+            "indicates player has scored at least 500 goals for a single club. 57 Rank Player Club Country and other Total Career span League Cup Continental 1 Cristiano Ronaldo 534 a 52 164 128 878 62 2002present 2 Lionel Messi  500 b 71 148 106",
+            "3 Egypt is the only African team with more than one player who has scored at least 50 international goals, after Mohamed Salah achieved the feat on 24 March 2023. 4 5 Bader AlMutawa of Kuwait has played the most matches so far to score 50 international goals."
+        ]
+    },
+    {
+        "query": "which was the better selling album in the us, thriller or hotel california?",
+        "predicted_answer": "thriller.",
+        "ground_truth": "thriller",
+        "retrieved_chunk": [
+            "Thriller is No Longer the Highest Selling Album of All Time Dimas Sanfiorenzo August 20, 2018 Source YouTube For years, Michael Jacksons iconic album Thriller was recognized as the top selling album of all time, The album, which was released in 1982,",
+            "Including Take It Easy, Desperado, One of These Nights, Take It To The Limit, Peaceful Easy Feeling and four others, this album surpassed Michael Jacksons Thriller . What makes this even more incredible is that the album was released prior to the band recording Hotel California .",
+            "The body also confirmed The Eagles 1977 album  Hotel California  is now 26 times platinum, making it the third bestselling album of all time in the US.",
+            "Its been quite a ride. Funny enough, Eagles Hotel California , released in 1977, is the third bestselling album of alltime. That album has been certified 29x platinum.",
+            "1, and six albums topped the Billboard 200. 1982s Thriller became one of the bestselling albums of all time and spent 37 weeks at No."
+        ]
+    },
+    {
+        "query": "how many times did tom cruise win people's choice awards",
+        "predicted_answer": "1",
+        "ground_truth": "2",
+        "retrieved_chunk": [
+            "Since then, he has appeared in over 58 films. Credit Reuters Has Tom Cruise ever won an Oscar Cruise has been nominated for three Academy Awards throughout his career. He was nominated for Best Actor in 1997 for Jerry Maguire and in 1990 for Born On The Fourth Of July.",
+            "3 SFX Awards 0 1 ShoWest Convention 1 1 Teen Choice Awards 0 8 Yoga Awards 1 1 Overall 130 413 The following is a list of awards and nominations received by Tom Cruise throughout his acting career.",
+            "List of awards and nominations received by Tom Cruise  Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Donate Contribute Help Learn to edit Community portal Recent changes Upload file Search Search Create account Log in Personal tools Create account Log in Pages for logged out editors",
+            "While Cruise did not win an Oscar for Jerry Maguire, Magnolia, or Born On The Fourth Of July, he did win Golden Globes for all three of his performances. He has also won two MTV Movie Awards, a Satellite Award, a Peoples Choice Award, and many more.",
+            "Cruise  Awards . IMDb . Retrieved June 13, 2012 .  Fulser, Jeremy May 10, 2021. Tom Cruise Returns His 3 Golden Globes in Protest Against HFPA . The Wrap ."
+        ]
+    },
+    {
+        "query": "what was cvm's open stock price last friday?",
+        "predicted_answer": "11.34",
+        "ground_truth": "$2.17",
+        "retrieved_chunk": [
+            "Should You Sell CELSCI Corporation CVM Stock Friday Stocks Crypto What We Do Reviews About Us Pricing Sign Up Login Sign Up Login Home My Portfolio Stocks Stocks Dashboard Top 5 Stocks Stock Screener Sector  Industry Options Options Dashboard Options Portfolios Options Screener Crypto Calendars Earnings Calendar FDA Calendar Compare News Help Center  Home My Portfolio Stocks Stocks Dashboard Top 5 Stocks Stock Screener Sector  Industry Options Options Dashboard Options Portfolios Options Screener Crypto Calendars Earnings Calendar FDA Calendar Compare News Help Center Pricing What We Do Reviews About Us Login News Home Should You Sell CELSCI Corporation CVM Stock Friday Friday, September 10, 2021 0151 PM  InvestorsObserver Analysts Mentioned in this article CVM 1.46 22 See CVM Report CELSCI Corporation  CVM  stock is lower by 17.39 over the last 12 months. InvestorsObservers proprietary ranking system, gives CVM stock a score of 14 out of a possible 100. That rank is chiefly influenced by a fundamental score of 0. CVM stock has a mean target price of 12.00. This means analysts expect the stock to increase 5.73 over the next 12 months.",
+            "This means analysts expect the stock to increase 5.73 over the next 12 months. CVMs rank also includes a longterm technical score of 20. The shortterm technical score for CVM is 23. CVM has an Overall Score of 14. Find out what this means to you and get the rest of the rankings on CVM See Full CVM Report Whats Happening with CVM Stock Today CELSCI Corporation CVM stock has risen 0.09 while the SP 500 has gained 0.01 as of 121 PM on Friday, Sep 10. CVM has gained 0.01 from the previous closing price of 11.34 on volume of 348,736 shares. Over the past year the SP 500 has risen 34.58 while CVM is lower by 17.39. CVM lost 0.86 per share in the over the last 12 months. Click Here to get the full Stock Report for CELSCI Corporation stock. Share this article Stay In The Know Subscribe to our daily morning update newsletter and never miss out on the needtoknow market news, movements, and more.",
+            "24 Recent News News Partners Press Releases Why CELSCI Corporation CVM Shares Are Diving CELSCI Corporation shares are trading lower by 13.9 Friday morning. The company priced an offering of 3.875 million shares.",
+            "Lisa Levin Why CELSCI CVM Shares Are Down 20 CELSCI Corporation NASDAQ CVM shares are trading lower by 21.3 to 2.25 Tuesday morning after the company priced its public offering of 2.5 million shares at 2.00 per share.",
+            "CVM CELSCI Corp  Stock Price, Quote and News  CNBC Skip Navigation watch live Markets PreMarkets U.S. Markets Currencies Cryptocurrency Futures  Commodities Bonds Funds  ETFs Business Economy Finance Health  Science Media Real Estate Energy Climate Transportation Industrials Retail Wealth Sports Life Small Business Investing Personal"
+        ]
+    },
+    {
+        "query": "what were the total in sales for the worldwide box office for beats?",
+        "predicted_answer": "207,200,000",
+        "ground_truth": "310827",
+        "retrieved_chunk": [
+            "California, USA chase scene Production companies Universal Pictures Original Film Skywalker Sound See more company credits at IMDbPro Box office Edit Budget 38,000,000 estimated Gross US  Canada 144,745,925 Opening weekend US  Canada 40,089,015 Jun 24, 2001 Gross worldwide 207,",
+            "2 million 79 198,000 sales 79 99,000 17th 2016 April 1517 April 2224 LCD Soundsystem Guns N Roses Calvin Harris 94.2 million 84 198,000 sales 84 99,",
+            "2022 Worldwide Box Office  Box Office Mojo Domestic International Worldwide Calendar All Time Showdowns Indices 2022 Worldwide Box Office 2024 2023 2022 2021 2020 2019 2018 2017 2016 2015 2014 2013 2012",
+            "More. Summary News Box Office International Video Sales Cast  Crew Trailer Metrics Domestic Share 100.0 domestic box officeworldwide Production Budget 5,500,000 worldwide box office is 29.",
+            "500,000 worldwide box office is 29.0 times production budget Latest Ranking on Cumulative Box Office Lists Record Rank Amount All Time Domestic Box Office Rank 301400 373 159,616,327 All Time Worldwide Box Office Rank 1,1011,200 1,198 159,616,"
+        ]
+    },
+    {
+        "query": "in what movie did kelly gallant first start their acting career?",
+        "predicted_answer": "1951",
+        "ground_truth": "talons of the eagle",
+        "retrieved_chunk": [
+            "Kellys film debut was a minor role in the 1951 drama Fourteen Hours . 5 She followed this with an appearance in the western High Noon with Gary Cooper .",
+            "Kelly Gallant  Rotten Tomatoes Signed in Skip to Main Content Cancel Movies  TV Celebrity No Results Found View All Whats the Tomatometer Critics Loginsignup Wants to See Ratings Profile Account Log Out Movies Movies in theaters Opening this week Top box office Coming soon to theaters Certified fresh movies Movies at home Peacock",
+            "Jessica Gallant  IMDb Menu Movies Release Calendar Top 250 Movies Most Popular Movies Browse Movies by Genre Top Box Office Showtimes  Tickets Movie News India Movie Spotlight TV Shows Whats on TV  Streaming Top 250 TV Shows Most Popular TV Shows Browse TV Shows by Genre TV News Watch What to Watch Latest Trailers IMDb",
+            "the Vampire Season 2 Announces Premiere Date Overview Biography TV Listings Credits Kelly Gallant Profession Actor Actor 4 Credits Married.",
+            "What films did Grace Kelly act in Grace Kelly gave her breakthrough screen performance in the film High Noon 1952. She later starred in Mogambo 1953, which earned her an Oscar nomination. She won an Oscar for best actress for her role in The Country Girl 1954."
+        ]
+    },
+    {
+        "query": "what's the name of the actress who played the role of maleficent's daughter in the movie \"maleficent\"?",
+        "predicted_answer": "The name of the actress who played the role of Maleficent's daughter in the movie \"Maleficent\" is Kristin Chenoweth.",
+        "ground_truth": "the actress who played the role of maleficent's daughter in the movie \"maleficent\" is elle fanning. she portrayed the role of aurora, the current ruler of moors.",
+        "retrieved_chunk": [
+            "She is one of the evil villains and she is also the mother of Mal . Maleficent is portrayed by Kristin Chenoweth .",
+            "why her daughter Vivienne, 5, was cast in her new film Maleficent. Advertisement The 38yearold admitted she didnt set out for Vivienne to be an actor. However, Vivienne was the only child actor she could find who wasnt terrified of her in costume.",
+            "Maleficent is one of the main characters in the Disney Channel Original Movie, Descendants . She is one of the evil villains and she is also the mother of Mal .",
+            "Maleficent film  Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Donate Contribute Help Learn to edit Community portal Recent changes Upload file Search Search Create account Log in Personal tools Create account Log in Pages for logged out editors learn more Contributions Talk Contents",
+            "Trivia   Angelina Jolie played Maleficent in her own live action movie where she is the hero and the King Stefan betrayed her and stole her wings. Like her own daughter Mal, who is fighting for redemption from her mothers mistakes. Maleficent is still the villain in Descendants ."
+        ]
+    },
+    {
+        "query": "which song is the eagle's only top-10 hit in the united kingdom?",
+        "predicted_answer": "I'm sorry, but I cannot answer that question as there is no context information about the Eagles' top-10 hits in the United Kingdom.",
+        "ground_truth": "hotel california",
+        "retrieved_chunk": [
+            "Eagles songs The best songs by The Eagles ever, ranked  Smooth Skip to content skip to navigation Smooth Listen On Air Now The Smooth Sanctuary with Gary Vincent 7pm  10pm Now Playing When I Was Your Man Bruno Mars Playlist Schedule Home Radio News Features Artists Tickets Win Choose your station Charity Video Dating Country",
+            "Its been his spotlight song at every gig since the Eagles reformed 21 years ago. Lyin Eyes The Eagles were a pretty popular band before they released One of these Nights in the summer of 1975, but that album brought them to a whole other level of success.",
+            "Smooth on Youtube Artists Eagles The 10 greatest Eagles songs, ranked 24 August 2023, 1128  Updated 24 August 2023, 1603 The Eagles.",
+            "As the title track to their 1975 album, One of These Nights was the second number one hit that the Eagles had, and in my humble opinion it is the best song that they ever made.",
+            "Readers Poll The 10 Best Eagles Songs   Skip to main content Rollingstone Logo Click to expand the Mega Menu Click to Expand Search Input Search for Music Politics TV  Movies SubCulture RS Recommends Got A Tip Account Welcome Get Digital Access Manage Digital Account Manage Print Account Sign Out Log In Subscribe Click to expand the"
+        ]
+    },
+    {
+        "query": "in their matches from the previous week, what is the total number of goals forced by lorient?",
+        "predicted_answer": "11",
+        "ground_truth": "2",
+        "retrieved_chunk": [
+            "You can track how a team has risen or fallen on a weekly basis. Lorient News Lorient 32 PSG Pochettinos side fall to stunning defeat despite Neymar double Ligue 1 3 years More news Last Starting XI In Lorients last match, they fielded the below lineup.",
+            "About 9 of matches 135 out of 1506 ended goalless and in 20 of matches 308 out of 1506 just one goal was scored. Thus, data were collected from 1063 matches in which the second goal was scored by a home team 586.",
+            "Team M W D L Goals Diff Last 5 Pts 16 Nantes 26 7 4 15 2441 17 L L L W L 25 17 Metz 26 6 5 15 2339 16 L W W L L 23 18 Clermont",
+            "Latest Scores Show more matches Scheduled Show more matches Ligue 1 Coupe de France Total Goalkeepers  Name Age MIN 99 Diaw Mory 30 24 2160 0 0 2 0 1 NDiaye Massamba 22 2 180 0 0 0",
+            "Start by talking about your audience, not yourself. Logout x FootballCritic France Ligue 1 Lorient Ranking History LORIENT Lorient, France 69 Squad Matches Formations News Ranking history in weeks Lorients FC Ranking is based over their last 20 matches played,"
+        ]
+    },
+    {
+        "query": "what was the last time avgo distributed dividends to its shareholders?",
+        "predicted_answer": "2017",
+        "ground_truth": "2023-12-19",
+        "retrieved_chunk": [
+            "Company XYZ declares a dividend payable on October 3, 2017 to its shareholders. XYZ also announces that shareholders of record on the companys books on or before September 18, 2017 are entitled to the dividend.",
+            "4, XYZ Company declares a dividend for its shareholders. The companys board then announces a record date of Friday, Feb. 18. Shareholders of record on that date will be eligible to receive the dividend.",
+            "982017 Friday, 9152017 Monday, 9182017 Tuesday, 1032017 On September 8, 2017, Company XYZ declares a dividend payable on October 3, 2017 to its shareholders.",
+            "Shareholders who are not registered as of this date will not receive the dividend. Registration in most countries is essentially automatic for shares purchased before the exdividend date.",
+            "Q Does CELSCI CVM pay a dividend A There are no upcoming dividends for CELSCI . Q When is CELSCI AMEXCVM reporting earnings A CELSCI s Q2 earnings are confirmed for Friday, May 10, 2024 ."
+        ]
+    },
+    {
+        "query": "what's the current stock price-to-earnings ratio of motus gi holdings?",
+        "predicted_answer": "10.65",
+        "ground_truth": "-0.06",
+        "retrieved_chunk": [
+            "It is currently 97.09 from its 52week high and 19.3 from its 52week low. How much is Motus Gi Holdings stock worth today  NASDAQ  MOTS  Motus Gi Holdings currently has 578,515 outstanding shares.",
+            "With Motus Gi Holdings stock trading at 0.68 per share, the total value of Motus Gi Holdings stock market capitalization is 393.39k . Motus Gi Holdings stock was originally listed at a price of 1,314.00 in Feb 14, 2018 .",
+            "How much is Motus Gi Holdingss stock price per share NASDAQ MOTS Motus Gi Holdings stock price per share is 0.68 today as of Feb 27, 2024.",
+            "Earnings Share 25.93 Revenue Per Share 0.826 Quarterly Revenue Growth 0.69 Return On Assets 0.58 Return On Equity 10.65 The market value of Motus GI Holdings is measured differently than its book value,",
+            "83 Next Earnings  Mar 29, 2024 ExDividend  NA Next Dividend  NA Show more MOTS Overview Motus GI Holdings, Inc."
+        ]
+    },
+    {
+        "query": "when did will smith's daughter first release music?",
+        "predicted_answer": "2010",
+        "ground_truth": "2010",
+        "retrieved_chunk": [
+            "When the 20yearold daughter of Will Smith and Jada Pinkett Smith first came onto the music scene, she made her debut with the iconic song, Whip My Hair.",
+            "UK English Mail Sign in Advertisement Close this content SheKnows Will Smiths 20YearOld Daughter Willow Smith Is So Gorgeous  Grown Up in Her New Music Video Daisy Maldonado April 28,",
+            "2 Presented by Amazon Prime Video 2000 Who Is Willow Smith Willow Smith grew up in the public eye as the daughter of Will Smith and Jada Pinkett Smith . After acting in a few projects, in 2010 Smith released a song, Whip My Hair, that became a hit single.",
+            "Though shed rebelled against the demands on her, Smith didnt stop making music. Her debut album, Ardipithecus , was released in 2015. Her next two albums, The 1st and Willow , came out in 2017 and 2019 respectively.",
+            "Occupations Rapper singer songwriter actor dancer Years active 2002present Parents Will Smith father Jada Pinkett Smith mother Relatives Willow Smith sister Musical career Genres Alternative hip hop 2 emo rap 3 Instruments Vocals Labels Columbia Roc Nation MSFTSMusic 4 Musical artist Website jadensmith ."
+        ]
+    },
+    {
+        "query": "what is the adjusted close price of microsoft stock on feb 14 2024",
+        "predicted_answer": "416.42",
+        "ground_truth": "the adjusted close price of microsoft stock is 409.49 in feb 14 2024",
+        "retrieved_chunk": [
+            "Microsoft  38 Year Stock Price History  MSFT  MacroTrends Stock Screener Stock Research Delisted Stocks Market Indexes Precious Metals Energy Commodities Interest Rates Economy Global Metrics Microsoft  38 Year Stock Price History  MSFT Prices Financials Revenue  Profit Assets  Liabilities Margins Price Ratios Other Ratios Other Metrics Stock Price History Stock Splits Market Cap Historical daily share price chart and data for Microsoft since 1986 adjusted for splits and dividends. The latest closing stock price for Microsoft as of March 15, 2024 is 416.42 . The alltime high Microsoft stock closing price was 425.22 on March 14, 2024 . The Microsoft 52week high stock price is 427.82 , which is 2.7 above the current share price. The Microsoft 52week low stock price is 269.52 , which is 35.3 below the current share price. The average Microsoft stock price for the last 52 weeks is 345.36 . For more information on how our historical price data is adjusted see the Stock Price Adjustment Guide .",
+            "Microsoft Stock Snapshot 285.43 Bid 100.00 Bid Size 300.91 Ask 500.00 Ask Size 3152024 Date 759 PM Time 45.08 M Volume 416.42 Prev. Close 419.29 Open 3,085.",
+            "12142023 264.43 69,246.49 365.93 Sell No Microsoft Dividend Calendar Date Name Dividend yield Currency 2023 Microsoft Corp. 2.72 0.80 USD 2022 Microsoft Corp. 2.48 0.97 USD 2021 Microsoft Corp. 2.24 0.83 USD 2020 Microsoft Corp. 2.04 1.00 USD 2019 Microsoft Corp. 1.84 1.37 USD 2018 Microsoft Corp. 1.68 1.70 USD 2017 Microsoft Corp. 1.56 2.26 USD 2016 Microsoft Corp. 1.44 2.81 USD 2015 Microsoft Corp. 1.24 2.81 USD 2014 Microsoft Corp. 1.12 2.69 USD 2013 Microsoft Corp. 0.92 2.66 USD 2012 Microsoft Corp. 0.80 2.62 USD 2011 Microsoft Corp. 0.64 2.46 USD 2010 Microsoft Corp. 0.52 2.26 USD 2009 Microsoft Corp.",
+            "Since then, the stock has been on a tear. Microsoft shares reached nearly 350 in late 2021 before the 2022 tech sector selloff dropped its stock price to under 215 in 2022.",
+            "10. What is the true value of Microsoft stock The median 12month price target among the Wall Street analysts covering MSFT stock is 410, suggesting doubledigit upside for the stock through November 2024."
+        ]
+    },
+    {
+        "query": "was los esclavos dam utilized in 2005?",
+        "predicted_answer": "Los Esclavos Dam was not utilized in 2005.",
+        "ground_truth": "yes",
+        "retrieved_chunk": [
+            "Gallery  edit  Media related to Los Esclavos river at Wikimedia Commons Media related to Los Esclavos bridge at Wikimedia Commons References  edit   INSIVUMEH. Mapa de Cuencas y Ríos .  INSIVUMEH.",
+            "Los Esclavos Hydroelectric Dam  Wikidata Los Esclavos Hydroelectric Dam Q6682714 From Wikidata Jump to navigation Jump to search dam in Cuilapa Santa Rosa edit Language Label Description Also known as English Los Esclavos Hydroelectric Dam dam in Cuilapa Santa Rosa Statements instance",
+            "known as English Los Esclavos Hydroelectric Dam dam in Cuilapa Santa Rosa Statements instance of dam 0 references hydroelectric power station 0 references image Los Esclavos.jpg 987  658 829 KB 1 reference imported from Wikimedia project English Wikipedia Wikimedia import URL httpsen.",
+            "Los Esclavos River  Wikipedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Donate Contribute Help Learn to edit Community portal Recent changes Upload file Languages Language links are at the top of the page. Search Search Create account Log in Personal tools",
+            "_ListadodeHidroelC3A9ctricasMayoresa5MW.pdf Commons category Los Esclavos Dam 0 references Identifiers Freebase ID m0fqp94l 0 references Sitelinks Wikipedia 1 entry edit enwiki Los Esclavos Dam Wikibooks 0 entries edit Wikinews 0 entries edit Wikiquote 0 entries edit Wikisource 0 entries edit Wikiversity 0 entries edit Wikivoyage 0 entries edit Wiktionary 0 entries edit Multilingual sites 1 entry edit commonswiki CategoryLos Esclavos Dam Retrieved from  httpswww.wikidata.orgwindex."
+        ]
+    },
+    {
+        "query": "what was the total trading volume of metlife during the first week of february?",
+        "predicted_answer": "5,000,000 shares.",
+        "ground_truth": "27965800",
+        "retrieved_chunk": [
+            "What is Metlifes Market Cap  NYSE  MET  Metlife s market cap is 50.00B , as of Feb 28, 2024 . Market cap market capitalization is the total market value of a publicly traded companys outstanding shares.",
+            "It is currently 4.89 from its 52week high and 41.29 from its 52week low. How much is Metlife stock worth today  NYSE  MET  Metlife currently has 723,020,313 outstanding shares. With Metlife stock trading at 69.16 per share, the total value of Metlife stock market capitalization is 50.00B . Metlife stock was originally listed at a price of 15.50 in Apr 5, 2000 . If you had invested in Metlife stock at 15.50 , your return over the last 23 years would have been 346.19 , for an annualized return of 6.72 not including any dividends or dividend reinvestments. How much is Metlifes stock price per share NYSE MET Metlife stock price per share is 69.16 today as of Feb 27, 2024.",
+            "If youre new to stock investing, heres how to buy Metlife stock . What is the 52 week high and low for Metlife NYSE MET NYSE MET Metlifes 52week high was 72.72, and its 52week low was 48.95.",
+            "08 0.21 0.27 Gold 2,041.60 2.50 0.12 MetLife, Inc. MET NYSE  Nasdaq Real Time Price.",
+            "com Investing.com UK  21 days ago MetLife CEO and CFO to Speak at Bank of America Securities 2024 Financial Services Conference Business Wire  22 days ago Valuation MET price to earnings PE For valuing profitable companies with steady earnings Company 38x Industry 17.32x Market 36."
+        ]
+    },
+    {
+        "query": "how many coachella music festivals has the band radiohead headlined?",
+        "predicted_answer": "3",
+        "ground_truth": "radiohead has headlined a total of 3 coachella music festivals.",
+        "retrieved_chunk": [
+            "Radiohead also headlined the Coachella Valley Music and Arts Festival in 2012 and 2017, marking a Coachella milestone in the first year.",
+            "The 2022 Coachella Valley Music and Arts Festival occurs from April 1517 and April 2224. Music by Radiohead is available on most major streaming platforms.",
+            "Radiohead returned to perform at the 2017 festival. Since 2012, Coachella has become one of the worlds most popular music festivals. Coachella featured other impressive headlining artists, including Childish Gambino, Tame Impala, and Ariana Grande.",
+            "88 The 2017 edition of Coachella took place from April 1416 and April 2123, and featured Radiohead, Lady Gaga , and Kendrick Lamar as headlining artists.",
+            "What year did Radiohead play Coachella That was the 2012 music festival, where Radiohead, The Black Keys, Dr. Dre, and Snoop Dogg appeared as the headlining artists. Radiohead returned to perform at the 2017 festival."
+        ]
+    },
+    {
+        "query": "how much national parks are there in the us?",
+        "predicted_answer": "63.",
+        "ground_truth": "63",
+        "retrieved_chunk": [
+            "Hot Springs National Park, Arkansas courtesy NPS California National Parks California is home to 9 national parks making it the state with the most national parks in America.",
+            "New Mexico Wind Cave National Park, South Dakota Wrangell St. Elias National Park, Alaska Yellowstone National Park, Wyoming Yosemite National Park, California Zion National Park, Utah List of National Parks FAQ How many national parks are in the US There are currently 63 official national parks in the US .",
+            "there are only 63 congressionally designated National Parks in the United States. While the National Park Service manages hundreds of sites, only 63 of them are national parks.",
+            "How Many National Parks Are There in the US What a lot of people dont know is that there are actually 423 national park sites or national park units in the US which sounds like a lot. Heres where things gets tricky.",
+            "To see them all, youd need to visit 31 states and two U.S. territories. Vince FergusTravel  Leisure While the National Park System comprises 425 national park sites, only 63 of them have the National Park designation in their names."
+        ]
+    },
+    {
+        "query": "how many reading and leeds festivals has the band foo fighters headlined?",
+        "predicted_answer": "7",
+        "ground_truth": "foo fighters have headlined a total of 4 reading and leeds festivals.",
+        "retrieved_chunk": [
+            "27 AUG 2019 Updated 1450, 27 AUG 2019 Bookmark Foo Fighters will be headlining Leeds and Reading Festivals Get the latest news from all parts of our city  sign up for our free email newsletter More Newsletters Subscribe Please enter a valid email Something went wrong, please try again later.",
+            "How to watch highlights of Foo Fighters live at Leeds Festival 2019  Leeds Live leedslive Load mobile navigation News Latest News Leeds News Crime Yorkshire News UK  World News Emmerdale Traffic  Travel Expand LUFC Best in Leeds In Your Area Restaurants and Bars Gigs and Clubs Shopping Whats On News Stay In Expand Rugby League Partner Stories Newsletters Yorkshire Live Leeds Rhinos Follow us Funeral Notices Jobs Marketplace Voucher Codes Contact Us Advertise with Us Newsletter signup Discount Codes About Us mynewsassistant Mirror Bingo Beauty Box Subscription Work for us Advertise with Us Competition Rules How to Complain Corrections and Clarifications Terms and Conditions Privacy Notice AI Notice Cookie Notice Notifications and alerts help RSS feeds Newsletter Signup Syndication  Licensing  2024 MGN Limited frontpage Best in Leeds Gigs and Clubs Leeds Festival Best in Leeds How to watch highlights of Foo Fighters live at Leeds Festival 2019 Foo Fighters headlined Leeds and Reading Festivals alongside The 1975, Post Malone and Twenty One Pilots leedslive Bookmark Share Best in Leeds By Craig Jones Whats On Editor 1440, 27 AUG 2019 Updated 1450,",
+            "News Features Interviews Reviews Recaps Gaming News Features Reviews Guides Watch Foo Fighters return to Leeds Festival with a blistering headline set Epic. By Elizabeth Aubrey 23rd August 2019 The Foo Fighters return to Leeds Festival Foo Fighters returned to Leeds Festival this evening to perform their seventh headline slot at the event.",
+            "Lineup  Reading Festival 2011 . Readingfestival.com. Archived from the original on 25 September 2011 . Retrieved 19 September 2011 .  The Cure, Kasabian and Foo Fighters to headline Reading and Leeds . Digital Spy .",
+            "The Cure, Kasabian and Foo Fighters to headline Reading and Leeds . Digital Spy . 12 March 2012."
+        ]
+    },
+    {
+        "query": "how many seasons in his career did tony romo play and start in every game?",
+        "predicted_answer": "10\nRomo played and started in every game during his 10-year career from 2003 to 2012. In the 2013 season, he only started 7 games.",
+        "ground_truth": "4",
+        "retrieved_chunk": [
+            "Plus ESPN BET Watch Watch Fantasy Fantasy More ESPN More ESPN Search Tony Romo Quarterback Follow Birthdate 4211980 College E Illinois Birthplace Burlington, WI Career Stats YDS 34,183 TD 248 INT 117 Overview News Stats Bio Splits Game Log Stats Regular Season Postseason hidden Passing season Team",
+            "An undrafted free agent out of Eastern Illinois, Romo signed with the Cowboys in 2003. He didnt play in his first year, but he appeared in 22 games over the next two seasons while he was the teams backup quarterback, but he did not throw a pass until 2006.",
+            "Over the past two seasons, Romo only started four of a possible 32 games. In the 2014 season, the last one in which he played the majority of his teams games, Romo was among the leagues most efficient passers.",
+            "What might have been In Romos first nine seasons since becoming Cowboys starting quarterback during the 2006 season, he started 123 of a possible 138 games.",
+            "Romo played one game in his final season with the Cowboys before hanging it up. He retired with 34,183 passing yards and 248 touchdowns along with 117 interceptions on a 65.3 completion rate."
+        ]
+    },
+    {
+        "query": "what's the price-to-earnings ratio of bhp as of now?",
+        "predicted_answer": "0.37",
+        "ground_truth": "27.9",
+        "retrieved_chunk": [
+            "and historical pe ratio for BHP Group BHP from 2010 to 2023. The price to earnings ratio is calculated by taking the latest closing price and dividing it by the most recent earnings per share EPS number.",
+            "2023 was 0.37 . Its Earnings per Share Diluted for the trailing twelve months TTM ended in Dec. 2023 was 2.91 . As of today 20240228, BHP Groups share price is 57.02 .",
+            "20102023  BHP Prices Financials Revenue  Profit Assets  Liabilities Margins Price Ratios Other Ratios Other Metrics PE Ratio PS Ratio PriceBook Ratio PriceFCF Ratio Net Worth Current and historical pe ratio for BHP Group BHP from 2010 to 2023.",
+            "As of today 20240228, BHP Groups share price is 57.02 . BHP Groups Earnings per Share Diluted for the trailing twelve months TTM ended in Dec. 2023 was 2.91 .",
+            "Also for stocks with the same PE ratio, the one with faster growth business is more attractive. BHP Group stock BHP PE ratio as of Feb 28 2024 is 19.81."
+        ]
+    },
+    {
+        "query": "when did the us adopt bitcoin as a legal tender?",
+        "predicted_answer": "The US has not yet adopted Bitcoin as a legal tender.",
+        "ground_truth": "invalid question",
+        "retrieved_chunk": [
+            "So, which countries have adopted Bitcoin as legal tender and how have they done it El Salvador is the first country to adopt Bitcoin as legal tender. Apart from macroeconomic factors described above, the country had a leader who was willing to experiment with bitcoin. He has since been a loyal ambassador of the cryptocurrency.",
+            "tender 5 countries that could be next in line to adopt Bitcoin as a legal tender At present, El Salvador and the Central African Republic CAR are the only two countries in the world where Bitcoin functions as a legal currency. However, speculations abound that many others are likely to follow suit. By CNBCTV18.com Nov 22, 2022 35759 PM IST Published 5 Min Read Bitcoin or Cryptocurrencies are one of the most talked about subjects of the last decade. Ever since the emergence of blockchain technology, the traditional global financial market has witnessed a revolution. Armed with the power to decentralise, cryptocurrencies have emerged as the future of finance. Since 2017, when the first Bitcoin boom occurred, countries and institutions worldwide have been taking notes. Back in May 2021, President Nayib Bukele of El Salvador, a small Latin American country, declared that they are adopting BTC as the legal tender. Eventually, El Salvador became the first country in the world to adopt BTC as a legal tender. On April 27, the Central African Republic CAR adopted BTC as a legal tender too.",
+            "Photographer Camilo FreedmanBloomberg via Getty Images Bloomberg  Bloomberg  Getty Images MIAMI  El Salvador is looking to introduce legislation that will make it the worlds first sovereign nation to adopt bitcoin as legal tender, alongside the U.S. dollar.",
+            "For instance, 10 notes and .50 coins are legal tender in the United States. Making Bitcoin  BTC  legal tender means that when someone wants to pay for a cup of coffee, they can use BTC to pay for it.",
+            "What factors generally catalyze a countrys adoption of Bitcoin as legal tender Typically there are macroeconomic factors that a country is looking to manage through the adoption of a currency as legal tender. In order to make Bitcoin legal tender, these factors should coincide with visionary leadership."
+        ]
+    },
+    {
+        "query": "who is the lead singer of the band coldplay?",
+        "predicted_answer": "Chris Martin",
+        "ground_truth": "chris martin",
+        "retrieved_chunk": [
+            "com Christopher Chris Anthony John Martin born 2 March 1977 is a British singersongwriter and multiinstrumentalist. He is best known as the lead singer of Coldplay .",
+            "com Signature Christopher Anthony John Martin born 2 March 1977 is an English singer, songwriter, musician and philanthropist. He is best known as the lead vocalist, pianist, rhythm guitarist and cofounder of the rock band Coldplay .",
+            "com Coldplay are a British rock band formed in London in 1997. They consist of vocalist and pianist Chris Martin , guitarist Jonny Buckland , bassist Guy Berryman , drummer Will Champion and manager Phil Harvey .",
+            "Chris Martin has a net worth of 120 million . Coldplays lead guitarist, Jonny Buckland started playing guitar at the age of 11, inspired by the performances of George Harrison, U2, and My Bloody Valentine.",
+            "John Buckland, Chris Martin, Will Champion, and Guy Berryman of Coldplay.  S.I.N.Corbis. world. In an article in Macleans magazine, Coldplay guitarist Jon Buckland explained that connecting to listeners on an emotional level is the most important thing in music for us."
+        ]
+    }
+]

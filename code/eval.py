@@ -1,5 +1,5 @@
 import json
-
+import os
 import nltk
 import torch
 from rouge import Rouge
@@ -8,8 +8,11 @@ from transformers import AutoModelForCausalLM, AutoTokenizer
 
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 
-eval_file = "/home/ldy/NLP_RAG_Demo/data/crag_200_result.jsonl"
-output_file = "crag_200_evaluate.jsonl"
+eval_file = "/home/ldy/NLP_RAG_Demo/code/RAG/SE_SW_BGE_results.json"
+eval_scores_file = "eval_scores.json"
+
+# Extract the eval file name
+rag_strategy = os.path.basename(eval_file).replace('_results.json', '')
 
 
 def metric(pred: str, answer: str):
@@ -51,76 +54,92 @@ def main():
     model = AutoModelForCausalLM.from_pretrained(checkpoint).to(device)
 
     with open(eval_file, 'r', encoding='utf-8') as f:
-        lines = f.readlines()
+        data = json.load(f)
 
     bleu_scores = []
     rouge_l_p = []
     rouge_l_r = []
     rouge_l_f = []
     lamini_scores_per_query = []
+    detailed_results = []
 
-    with open(output_file, 'w', encoding='utf-8') as out:
-        for line in tqdm(lines, desc="Evaluating"):
-            data = json.loads(line)
-            query = data['query']
-            answer = data['answer']
-            pred = data['pred']
-            if pred == "":
-                pred = "invalid question"
-            bleu, rouge_l = metric(pred.lower().strip(), answer.lower().strip())
-            bleu_scores.append(bleu)
-            rouge_l_p.append(rouge_l['p'])
-            rouge_l_r.append(rouge_l['r'])
-            rouge_l_f.append(rouge_l['f'])
+    for item in tqdm(data, desc="Evaluating"):
+        query = item['query']
+        answer = item['ground_truth']
+        pred = item['predicted_answer']
+        if pred == "":
+            pred = "invalid question"
+        bleu, rouge_l = metric(pred.lower().strip(), answer.lower().strip())
+        bleu_scores.append(bleu)
+        rouge_l_p.append(rouge_l['p'])
+        rouge_l_r.append(rouge_l['r'])
+        rouge_l_f.append(rouge_l['f'])
 
-            # Formulate the input prompt
-            instruction = (
-                "Determine if the following two text snippets convey the same meaning. Answer 'Yes' if they are "
-                "semantically similar, otherwise answer 'No':")
-            input_prompt = (f"### Instruction:\n{instruction}\n\n### Text 1:\n{answer}\n\n### Text 2:\n{pred}\n\n### "
-                            f"Response:")
+        # Formulate the input prompt
+        instruction = (
+            "Determine if the following two text snippets convey the same meaning. Answer 'Yes' if they are "
+            "semantically similar, otherwise answer 'No':")
+        input_prompt = (f"### Instruction:\n{instruction}\n\n### Text 1:\n{answer}\n\n### Text 2:\n{pred}\n\n### "
+                        f"Response:")
 
-            # 构造8个相同的输入以进行并行处理
-            input_prompts = [input_prompt] * 8
-            # Tokenize inputs in batch
-            inputs = tokenizer(input_prompts, return_tensors="pt", padding=True).to(device)
-            # 使用模型进行批处理
-            outputs = model.generate(**inputs, max_new_tokens=2, do_sample=True, pad_token_id=tokenizer.eos_token_id)
-            # 解码并提取生成的文本
-            generated_texts = tokenizer.batch_decode(outputs, skip_special_tokens=True)
-            generated_texts = [text[len(input_prompt):] for text in generated_texts]
+        # Construct 8 identical inputs for parallel processing
+        input_prompts = [input_prompt] * 8
+        # Tokenize inputs in batch
+        inputs = tokenizer(input_prompts, return_tensors="pt", padding=True).to(device)
+        # Use the model for batch processing
+        outputs = model.generate(**inputs, max_new_tokens=2, do_sample=True, pad_token_id=tokenizer.eos_token_id)
+        # Decode and extract generated text
+        generated_texts = tokenizer.batch_decode(outputs, skip_special_tokens=True)
+        generated_texts = [text[len(input_prompt):] for text in generated_texts]
 
-            lamini_scores = []
-            for text in generated_texts:
-                if "Yes" in text:
-                    lamini_scores.append(1)
-                elif "No" in text:
-                    lamini_scores.append(0)
-                else:
-                    lamini_scores.append(-1)
-            lamini_scores_per_query.append(lamini_scores)
+        lamini_scores = []
+        for text in generated_texts:
+            if "Yes" in text:
+                lamini_scores.append(1)
+            elif "No" in text:
+                lamini_scores.append(0)
+            else:
+                lamini_scores.append(-1)
+        lamini_scores_per_query.append(lamini_scores)
 
-            output_data = {
-                "query": query,
-                "answer": answer,
-                "pred": pred,
-                "lamini_result": lamini_scores,
+        detailed_results.append({
+            "query": query,
+            "ground_truth": answer,
+            "predicted_answer": pred,
+            "lamini_result": lamini_scores,
+        })
+
+    # Calculate the average scores, excluding -1
+    average_scores = [calculate_average(scores) for scores in zip(*lamini_scores_per_query)]
+    # Calculate the average of the average scores, excluding -1 group averages
+    valid_average_scores = [score for score in average_scores if score != -1]
+    final_average_score = sum(valid_average_scores) / len(valid_average_scores) if valid_average_scores else 0
+
+    # Load existing data from eval_scores.json if it exists
+    if os.path.exists(eval_scores_file):
+        with open(eval_scores_file, 'r', encoding='utf-8') as f:
+            eval_scores_data = json.load(f)
+    else:
+        eval_scores_data = []
+
+    # Append the new evaluation results
+    eval_scores_data.append({
+        "RAG strategy": rag_strategy,
+        "metrics": {
+            "bleu": sum(bleu_scores) / len(bleu_scores),
+            "rouge_l_p": sum(rouge_l_p) / len(rouge_l_p),
+            "rouge_l_r": sum(rouge_l_r) / len(rouge_l_r),
+            "rouge_l_f": sum(rouge_l_f) / len(rouge_l_f),
+            "lamini": {
+                "score": final_average_score,
+                "details": detailed_results
             }
-            json.dump(output_data, out)
-            out.write('\n')
-            out.flush()
+        }
+    })
 
-        # 计算8组平均分，过滤掉-1
-        average_scores = [calculate_average(scores) for scores in zip(*lamini_scores_per_query)]
-        # 计算8组平均分的平均分，并过滤掉-1的组平均分
-        valid_average_scores = [score for score in average_scores if score != -1]
-        final_average_score = sum(valid_average_scores) / len(valid_average_scores) if valid_average_scores else 0
-
-        print("lamini_scores:", final_average_score)
-        print(f"BLEU: {sum(bleu_scores) / len(bleu_scores)}")
-        print(f"ROUGE-L P: {sum(rouge_l_p) / len(rouge_l_p)}")
-        print(f"ROUGE-L R: {sum(rouge_l_r) / len(rouge_l_r)}")
-        print(f"ROUGE-L F: {sum(rouge_l_f) / len(rouge_l_f)}")
+    # Write the updated data back to eval_scores.json
+    with open(eval_scores_file, 'w', encoding='utf-8') as f:
+        json.dump(eval_scores_data, f, indent=4)
 
 
 if __name__ == '__main__':
