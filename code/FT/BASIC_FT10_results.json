@@ -1,0 +1,502 @@
+[
+    {
+        "query": "who has been in more movies, will farrell or steve carell?",
+        "predicted_answer": "will farrell",
+        "ground_truth": "will farrell has acted in 142 films, while steve carell has only been 85 films."
+    },
+    {
+        "query": "what is the sales tax in maine?",
+        "predicted_answer": "5.15%",
+        "ground_truth": "5.5%"
+    },
+    {
+        "query": "what's the date of justin bieber's latest release?",
+        "predicted_answer": "① ② ③ ④ ② ③ ④",
+        "ground_truth": "2022-08-30"
+    },
+    {
+        "query": "what is the most recent date that nml paid dividends to its shareholders?",
+        "predicted_answer": "2024-02-12",
+        "ground_truth": "2024-02-14"
+    },
+    {
+        "query": "what was the worldwide box office earnings for the iceman?",
+        "predicted_answer": "7534222",
+        "ground_truth": "1969193"
+    },
+    {
+        "query": "can you provide me with the total number of regional confederations that make up fifa's organization?",
+        "predicted_answer": "5",
+        "ground_truth": "6"
+    },
+    {
+        "query": "what was the total value of all global hedge fund assets under management in 2023?",
+        "predicted_answer": "the total value of all global hedge fund assets under management was $4.53 trillion in 2023.",
+        "ground_truth": "the total value of all global hedge fund assets under management was $4.6 trillion in 2023."
+    },
+    {
+        "query": "who has had more platinum albums, ac/dc or metallica?",
+        "predicted_answer": "ac/dc",
+        "ground_truth": "ac/dc has had more platinum albums than metallica, with 20 platinum albums compared to metallica's 13."
+    },
+    {
+        "query": "how many times has dwayne \"the rock\" johnson appeared in a film as a demigod?",
+        "predicted_answer": "dwayne \"the rock\" johnson has appeared in a film as a demigod three times.",
+        "ground_truth": "dwayne \"the rock\" johnson has appeared in four films as a demigod, playing maui in \"moana\" and \"once upon a studio\", the scorpion king in \"the mummy returns\" and \"the scorpion king\", and hercules in \"hercules.\""
+    },
+    {
+        "query": "can you tell me where the artist who won the best new artist in 54th grammy (2011) was born?",
+        "predicted_answer": "brazil",
+        "ground_truth": "us"
+    },
+    {
+        "query": "which singer wrote dark nevada dream?",
+        "predicted_answer": "taylor swift",
+        "ground_truth": "tim bowness"
+    },
+    {
+        "query": "do you know who directed chloe and theo?",
+        "predicted_answer": "peter hall i believe",
+        "ground_truth": "ezna sands"
+    },
+    {
+        "query": "who has had more number one hits on the us billboard hot 100 chart, beyoncé or rihanna?",
+        "predicted_answer": "beyoncé has had more number one hits on the us billboard hot 100 chart than rihanna, with 21 number one hits compared to rihanna's 19.",
+        "ground_truth": "rihanna has had more number one hits on the us billboard hot 100 chart than beyoncé, with 14 number one hits compared to beyoncé's 9."
+    },
+    {
+        "query": "can you tell me if this is the original title, the fast and the fierce?",
+        "predicted_answer": "",
+        "ground_truth": "true"
+    },
+    {
+        "query": "who did pelicans go head-to-head with on 2022-10-14?",
+        "predicted_answer": "los angeles clippers",
+        "ground_truth": "atlanta hawks"
+    },
+    {
+        "query": "how many times has lebron james won the nba championship with the boston celtics?",
+        "predicted_answer": "invalid question",
+        "ground_truth": "invalid question"
+    },
+    {
+        "query": "in 2007, which movie was distinguished for its visual effects at the oscars?",
+        "predicted_answer": "the golden compass",
+        "ground_truth": "pirates of the caribbean: dead man's chest"
+    },
+    {
+        "query": "what's the average net worth of the wertheimer brothers?",
+        "predicted_answer": "$2 billion",
+        "ground_truth": "$45 million"
+    },
+    {
+        "query": "what was the closing price of bitcoin on february 02, 2023?",
+        "predicted_answer": "$168,424.16",
+        "ground_truth": "bitcoin closing price on feb 02 2023 is 43,185.86"
+    },
+    {
+        "query": "what is the state income tax rate in texas?",
+        "predicted_answer": "2%",
+        "ground_truth": "invalid question"
+    },
+    {
+        "query": "who made the creative decisions for hell swarm?",
+        "predicted_answer": "",
+        "ground_truth": "tim matheson"
+    },
+    {
+        "query": "which of these actors if younger in age, willow johnson or stephen graham?",
+        "predicted_answer": "willow johnson",
+        "ground_truth": "willow johnson"
+    },
+    {
+        "query": "how many actors were in the first matrix movie?",
+        "predicted_answer": "2",
+        "ground_truth": "there were 41 actors in the first matrix movie."
+    },
+    {
+        "query": "which year did netflix last raise their subscription prices?",
+        "predicted_answer": "2024",
+        "ground_truth": "2023"
+    },
+    {
+        "query": "is the last resort the original title of the movie?",
+        "predicted_answer": "",
+        "ground_truth": "true"
+    },
+    {
+        "query": "when did sally become the first film to be made entirely in the technicolor process 3?",
+        "predicted_answer": "",
+        "ground_truth": "invalid question"
+    },
+    {
+        "query": "what's the trading volume of ccldo on the last trading day?",
+        "predicted_answer": "107000",
+        "ground_truth": "1800"
+    },
+    {
+        "query": "which film received better critic ratings from rotten tomatoes, shutter island or the wolf of wall street?",
+        "predicted_answer": "shutter island",
+        "ground_truth": "the wolf of wall street"
+    },
+    {
+        "query": "which political office does ben affleck currently hold?",
+        "predicted_answer": "invalid question",
+        "ground_truth": "invalid question"
+    },
+    {
+        "query": "who are the main celebrity actors in pirates of the caribbean?",
+        "predicted_answer": "",
+        "ground_truth": "the main actors in pirates of the caribbean are johnny depp, orlando bloom, geoffrey rush, kiera knightley and kevin mcnally."
+    },
+    {
+        "query": "how many mystery movies were released during the year 2020?",
+        "predicted_answer": "126",
+        "ground_truth": "146"
+    },
+    {
+        "query": "who won the best actor oscar for their performance in a movie in 2012?",
+        "predicted_answer": "jean dujardin",
+        "ground_truth": "jean dujardin"
+    },
+    {
+        "query": "who was the first actress to play the role of a female assassin in a live-action movie?",
+        "predicted_answer": "nicola batty in her own backyard, lynda carter in is there a way to kill a dinosaur, and sally dunham in kill the moon.",
+        "ground_truth": "meiko kaji was the first actress to play the role of a female assassin in a live-action movie, in her portrayal of yuki kashima in the 1973 film lady snowblood."
+    },
+    {
+        "query": "how many meters taller is kaligandaki a hydroelectric power station than gilgel gibe iii dam?",
+        "predicted_answer": "invalid question",
+        "ground_truth": "invalid question"
+    },
+    {
+        "query": "how many number one hit songs does lady gaga have?",
+        "predicted_answer": "lady gaga has had 6 number one hit songs.",
+        "ground_truth": "7"
+    },
+    {
+        "query": "did the song rolling stone precede the song one more time?",
+        "predicted_answer": "yes",
+        "ground_truth": "yes"
+    },
+    {
+        "query": "how many islands are there in the philippines",
+        "predicted_answer": ", 7,027",
+        "ground_truth": "the philippines is an archipelago that comprises 7,641 islands"
+    },
+    {
+        "query": "in 2021-12, which teams were able to come out on top against golden state warriors?",
+        "predicted_answer": "dallas mavericks, denver nuggets, indiana pacers",
+        "ground_truth": "denver nuggets, philadelphia 76ers, san antonio spurs, toronto raptors"
+    },
+    {
+        "query": "what are the 3 most recent awards has steven spielberg won?",
+        "predicted_answer": "",
+        "ground_truth": "best motion picture - drama (2023), best director - motion picture (2023), and best motion picture - musical or comedy (2022)"
+    },
+    {
+        "query": "what was the first animated movie, full-length, ever released?",
+        "predicted_answer": "",
+        "ground_truth": "snow white and the seven dwarfs."
+    },
+    {
+        "query": "where did the lead designer of java (programming language) receive his ph.d.?",
+        "predicted_answer": "massachusetts institute of technology",
+        "ground_truth": "carnegie mellon university"
+    },
+    {
+        "query": "how many times has emma stone showcased her singing talent in a movie?",
+        "predicted_answer": "emma stone has showcased her singing talent in 3 movies.",
+        "ground_truth": "emma stone has showcased her singing talents in two movies: \"la la land\" and \"easy a.\""
+    },
+    {
+        "query": "when did george clooney and amal clooney have their 3rd baby?",
+        "predicted_answer": "invalid question",
+        "ground_truth": "invalid question"
+    },
+    {
+        "query": "what is the vertical distance between usoi dam and tabqa dam in meters?",
+        "predicted_answer": "50",
+        "ground_truth": "507"
+    },
+    {
+        "query": "what price did the ppg industries open today?",
+        "predicted_answer": "$134.11",
+        "ground_truth": "$140.47"
+    },
+    {
+        "query": "what was tbmc's closing price yesterday?",
+        "predicted_answer": "$12.31",
+        "ground_truth": "$10.53"
+    },
+    {
+        "query": "when did charles jarrott's mother give birth to them?",
+        "predicted_answer": "invalid question",
+        "ground_truth": "6/16/27"
+    },
+    {
+        "query": "who was the ceo of apple in 2010?",
+        "predicted_answer": "steve jobs",
+        "ground_truth": "steve jobs"
+    },
+    {
+        "query": "what were 3 of the most watched halloween movies of all time?",
+        "predicted_answer": "",
+        "ground_truth": "hocus pocus, halloween (2018), beetlejuice"
+    },
+    {
+        "query": "what is loan deferment?",
+        "predicted_answer": "loan deferment is a loan repayment option that allows borrowers to temporarily stop making payments on their loans.",
+        "ground_truth": "loan deferment allows you to take a break from making payments on your loans. what deferment looks like, though, can vary depending on the type of loan you have."
+    },
+    {
+        "query": "can you tell me the maximum price that dermtech's stock reached last week?",
+        "predicted_answer": "$19.74",
+        "ground_truth": "$1.35"
+    },
+    {
+        "query": "how many times has john mcenroe won the french open?",
+        "predicted_answer": "invalid question",
+        "ground_truth": "invalid question"
+    },
+    {
+        "query": "did wawa dam play a part in 1990's operations?",
+        "predicted_answer": "yes",
+        "ground_truth": "no"
+    },
+    {
+        "query": "what is treasury yield?",
+        "predicted_answer": "",
+        "ground_truth": "treasury yield is the effective annual interest rate that the u.s. government pays on one of its debt obligations, expressed as a percentage."
+    },
+    {
+        "query": "how many times has lady gaga won a grammy award for album of the year?",
+        "predicted_answer": "lady gaga has won a grammy award for album of the year twice, in 2010 and 2014.",
+        "ground_truth": "lady gaga has never won a grammy award for album of the year, though she has been nominated four times."
+    },
+    {
+        "query": "what is the country of origin for frank sinatra?",
+        "predicted_answer": "italy",
+        "ground_truth": "us"
+    },
+    {
+        "query": "which day did eqix last distribute dividends to its shareholders?",
+        "predicted_answer": "2023-12-28",
+        "ground_truth": "2024-02-27"
+    },
+    {
+        "query": "when was the first screening of is anybody there??",
+        "predicted_answer": "9/17/05",
+        "ground_truth": "4/17/09"
+    },
+    {
+        "query": "what was henry rollins's age when he/she made an appearance in henry rollins: henry rollins goes to london?",
+        "predicted_answer": "at the age of 20, henry rollins made an appearance in henry rollins: henry rollins goes to london, when he was 20 years old.",
+        "ground_truth": "33"
+    },
+    {
+        "query": "of the six avengers movies, which one was rated the lowest?",
+        "predicted_answer": "average movie rating: 4.5 stars",
+        "ground_truth": "invalid question"
+    },
+    {
+        "query": "who has had more number one hits on the us billboard hot 100 chart, michael jackson or elvis presley?",
+        "predicted_answer": "elvis presley has had more number one hits on the us billboard hot 100 chart than michael jackson, with 19 number one hits compared to michael's 18.",
+        "ground_truth": "elvis presley has had more number one hits on the us billboard hot 100 chart than michael jackson, with 18 number one hits compared to jackson's 13."
+    },
+    {
+        "query": "this week, which company has had more shares traded, gty or  cyd?",
+        "predicted_answer": "cyd",
+        "ground_truth": "gty"
+    },
+    {
+        "query": "what are the names of george and amal clooney’s twins?",
+        "predicted_answer": "",
+        "ground_truth": "ella and alexander clooney"
+    },
+    {
+        "query": "which film earned acclaim for its visual effects performance at the oscars in 2016?",
+        "predicted_answer": "ex machina",
+        "ground_truth": "ex machina"
+    },
+    {
+        "query": "did cádiz emerge victorious in yesterday's game?",
+        "predicted_answer": "invalid question",
+        "ground_truth": "invalid question"
+    },
+    {
+        "query": "what soul train awards has usher won in year 2023",
+        "predicted_answer": "",
+        "ground_truth": "usher won three soul train awards in 2023: best r&b/soul male artist, best collaboration, and the soul train certified award."
+    },
+    {
+        "query": "the 1984 maze game devil world has an amazing soundtrack. who composed it?",
+        "predicted_answer": "charles schwab",
+        "ground_truth": "koji kondo akito nakatsuka"
+    },
+    {
+        "query": "how much did twitter stock rise since elon musk bought them in 2016",
+        "predicted_answer": "",
+        "ground_truth": "invalid question"
+    },
+    {
+        "query": "who was the first actress to play the role of a female superhero in a live-action movie?",
+        "predicted_answer": "sandra bullock was the first actress to play the role of a female superhero in a live-action movie, when she portrayed the role of a superhero in the 2009 film \"the house bunny\".",
+        "ground_truth": "lynda carter was the first actress to play the role of a female superhero in a live-action movie, in the 1974 film wonder woman, directed by vincent mceveety."
+    },
+    {
+        "query": "what was galmed pharmaceuticals's closing price on the day that saw the most trading activity last week?",
+        "predicted_answer": "$16.85",
+        "ground_truth": "$0.38"
+    },
+    {
+        "query": "what is the revenue of bodyarmor's parent company?",
+        "predicted_answer": "12553",
+        "ground_truth": "$45.75 billion"
+    },
+    {
+        "query": "which single was more successful, man in the mirror or billie jean?",
+        "predicted_answer": "man in the mirror was more successful as a single, reaching number 1 on the us billboard hot 100.",
+        "ground_truth": "billie jean"
+    },
+    {
+        "query": "from 1990 to 2000, how many songs did keith sweat release?",
+        "predicted_answer": "5",
+        "ground_truth": "8"
+    },
+    {
+        "query": "does a rhino or a grizzly bear weigh more?",
+        "predicted_answer": "a grizzly bear",
+        "ground_truth": "rhinos weigh more, reaching up to 8,000 pounds. while grizzly bears weigh up to 900 pounds."
+    },
+    {
+        "query": "what was clermont foot's score last week?",
+        "predicted_answer": "invalid question",
+        "ground_truth": "2"
+    },
+    {
+        "query": "what was the total box office earnings for die hard 2 worldwide?",
+        "predicted_answer": "73200000",
+        "ground_truth": "240031094"
+    },
+    {
+        "query": "who won more rings, jordan or lebron?",
+        "predicted_answer": "jordan is top of the all-time list with 6 rings, while lebron has 3.",
+        "ground_truth": "jordan"
+    },
+    {
+        "query": "is dead innocent the original title of that movie?",
+        "predicted_answer": "true",
+        "ground_truth": "true"
+    },
+    {
+        "query": "which soccer players have scored at least 50 goals in a single season?",
+        "predicted_answer": "lionel messi, cristiano ronaldo, and karl gallagher have all scored at least 50 goals in a single season.",
+        "ground_truth": "dixie dean, josef bican, ferenc deak, pele, gerd muller, lionel messi, cristiano ronaldo, and luis suarez have all scored at least 50 goals in a single season."
+    },
+    {
+        "query": "which was the better selling album in the us, thriller or hotel california?",
+        "predicted_answer": "hotel california was the better selling album in the us, with 20 million copies sold, while thriller had 16 million copies sold.",
+        "ground_truth": "thriller"
+    },
+    {
+        "query": "how many times did tom cruise win people's choice awards",
+        "predicted_answer": "",
+        "ground_truth": "2"
+    },
+    {
+        "query": "what was cvm's open stock price last friday?",
+        "predicted_answer": "$10.18",
+        "ground_truth": "$2.17"
+    },
+    {
+        "query": "what were the total in sales for the worldwide box office for beats?",
+        "predicted_answer": "20,004,565",
+        "ground_truth": "310827"
+    },
+    {
+        "query": "in what movie did kelly gallant first start their acting career?",
+        "predicted_answer": "kelley gallant first started their acting career in a movie called \"breakfast at tiffany's\" in 1964",
+        "ground_truth": "talons of the eagle"
+    },
+    {
+        "query": "what's the name of the actress who played the role of maleficent's daughter in the movie \"maleficent\"?",
+        "predicted_answer": "actress ahsoka figueroa played the role of the actress who played the role of maleficent's daughter in the movie \"maleficent\".",
+        "ground_truth": "the actress who played the role of maleficent's daughter in the movie \"maleficent\" is elle fanning. she portrayed the role of aurora, the current ruler of moors."
+    },
+    {
+        "query": "which song is the eagle's only top-10 hit in the united kingdom?",
+        "predicted_answer": "",
+        "ground_truth": "hotel california"
+    },
+    {
+        "query": "in their matches from the previous week, what is the total number of goals forced by lorient?",
+        "predicted_answer": "1",
+        "ground_truth": "2"
+    },
+    {
+        "query": "what was the last time avgo distributed dividends to its shareholders?",
+        "predicted_answer": "2024-02-08",
+        "ground_truth": "2023-12-19"
+    },
+    {
+        "query": "what's the current stock price-to-earnings ratio of motus gi holdings?",
+        "predicted_answer": "9.06",
+        "ground_truth": "-0.06"
+    },
+    {
+        "query": "when did will smith's daughter first release music?",
+        "predicted_answer": "invalid question",
+        "ground_truth": "2010"
+    },
+    {
+        "query": "what is the adjusted close price of microsoft stock on feb 14 2024",
+        "predicted_answer": "? $41,325.22",
+        "ground_truth": "the adjusted close price of microsoft stock is 409.49 in feb 14 2024"
+    },
+    {
+        "query": "was los esclavos dam utilized in 2005?",
+        "predicted_answer": "invalid question",
+        "ground_truth": "yes"
+    },
+    {
+        "query": "what was the total trading volume of metlife during the first week of february?",
+        "predicted_answer": "1,094,900 shares were traded.",
+        "ground_truth": "27965800"
+    },
+    {
+        "query": "how many coachella music festivals has the band radiohead headlined?",
+        "predicted_answer": "radiohead has headlined the coachella music festival three times.",
+        "ground_truth": "radiohead has headlined a total of 3 coachella music festivals."
+    },
+    {
+        "query": "how much national parks are there in the us?",
+        "predicted_answer": "79 national parks service",
+        "ground_truth": "63"
+    },
+    {
+        "query": "how many reading and leeds festivals has the band foo fighters headlined?",
+        "predicted_answer": "4",
+        "ground_truth": "foo fighters have headlined a total of 4 reading and leeds festivals."
+    },
+    {
+        "query": "how many seasons in his career did tony romo play and start in every game?",
+        "predicted_answer": "经过上述分析,我们可以得出结论:在tony romo的职业生涯中,他共参加了11个nfl赛季,并且在每个赛季中都能够作为先发球员出场。",
+        "ground_truth": "4"
+    },
+    {
+        "query": "what's the price-to-earnings ratio of bhp as of now?",
+        "predicted_answer": "8.955223823229253",
+        "ground_truth": "27.9"
+    },
+    {
+        "query": "when did the us adopt bitcoin as a legal tender?",
+        "predicted_answer": "invalid question",
+        "ground_truth": "invalid question"
+    },
+    {
+        "query": "who is the lead singer of the band coldplay?",
+        "predicted_answer": "coldplay is lead by the vocalist and guitarist chris martin.",
+        "ground_truth": "chris martin"
+    }
+]

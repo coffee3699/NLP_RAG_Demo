@@ -8,7 +8,7 @@ from transformers import AutoModelForCausalLM, AutoTokenizer
 
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 
-eval_file = "/home/ldy/NLP_RAG_Demo/code/RAG/SE_SW_BGE_results.json"
+eval_file = "/home/ldy/NLP_RAG_Demo/code/RAG/SE_BGE_results.json"
 eval_scores_file = "eval_scores.json"
 
 # Extract the eval file name
@@ -16,8 +16,6 @@ rag_strategy = os.path.basename(eval_file).replace('_results.json', '')
 
 
 def metric(pred: str, answer: str):
-    print(pred, answer)
-
     # Check if prediction meets a minimum requirement before scoring
     if pred in ["invalid question", "", None]:
         return 0, {'p': 0, 'r': 0, 'f': 0}
